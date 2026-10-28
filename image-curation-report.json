@@ -1,0 +1,33 @@
+{
+  "active_images": 135,
+  "omitted_decorative_slots": 103,
+  "policy": "Unique, explicitly assigned images. Regional photography must depict the covered region; otherwise use neutral legal-preparation imagery. No shared fallback. Unnecessary decorative placements may be omitted.",
+  "rejected": {
+    "foreign_architecture_and_institutional_assembly_rooms": [
+      "editorial-001 through009",
+      "editorial-011",
+      "editorial-013",
+      "editorial-014",
+      "editorial-017"
+    ],
+    "poor_relevance_or_quality": [
+      "editorial-010 panoramic distortion",
+      "editorial-020 unfinished empty office",
+      "editorial-025 open-plan computer room",
+      "editorial-032 cluttered domestic shelves",
+      "editorial-034 comic/cartoon books",
+      "editorial-055 lecture hall"
+    ],
+    "recognizable_nonlocal_skyline": [
+      "legal-048",
+      "legal-049",
+      "legal-051",
+      "legal-058",
+      "legal-063",
+      "legal-068",
+      "legal-071",
+      "legal-074"
+    ]
+  },
+  "professional_photos": "User supplied KM1.jpg and KM2.jpg, each used once on the English About page; French About links to the professional-registration section."
+}

@@ -1,0 +1,27 @@
+HalifaxLaw.ca — review and update, October 12, 2026
+
+Implemented in source
+- Criminal Law in English and French, linked from the homepage, practice areas, all regional guides, contact form and sitemap.
+- Clear service scope, consultation checklist, official Nova Scotia Courts resource and a direct-call option for upcoming court dates.
+- Criminal Law enquiry links preselect the corresponding form topic.
+- Practice-area breadcrumbs, clearer homepage headline, seven-area summary and service structured data.
+- Versioned CSS/JavaScript so repeat visitors receive current behaviour.
+- Existing fonts self-hosted with their original open licences; no Google Fonts connection needed.
+- Reduced-motion support.
+- Full image replacement completed: 238 unique placements, with placement mapping, source and licence records, bilingual descriptions and photography credits.
+
+Useful next improvements requiring business input or external evidence
+1. Add an approved professional portrait and a fuller factual biography: education, admission details and experience the lawyer wants published. Do not invent credentials, case results or testimonials.
+2. Run one explicitly authorized, clearly labelled Formspree enquiry and confirm receipt in the recipient inbox. Simulated form checks do not establish delivery.
+3. Confirm any office address and appointment hours the practice wishes to publish before adding local business address metadata or directory details.
+4. Check Search Console and Bing ownership, sitemap receipt and indexing evidence in the connected accounts. Public availability and valid metadata do not prove search-engine indexing.
+
+Verification limits
+- The custom domain https://halifaxlaw.ca loaded in the browser.
+- Source synchronization confirmed the existing public audience; no access change requested or made.
+- Cross-site image comparisons cover locally accessible raster inventories under Documents/Codex. Cloud-only/unavailable inventories, animated images, images smaller than 300px and files above 20MB are not verified. Do not interpret this as portfolio-wide certainty.
+- No real form submission was sent.
+
+Checks passed: 87 HTML files; local links and assets; 238 unique image hashes and sources; zero perceptual duplicate flags against 6,298 distinct accessible prior images; Criminal Law EN/FR links and structured data; enquiry topic preselection; mobile overflow and image loading. No real enquiry sent.
+
+Publication status: checked and ready for publication.

@@ -1,0 +1,3156 @@
+{
+  "/": [
+    {
+      "asset": "homepage-en-hero.webp",
+      "width": 1536,
+      "height": 1024,
+      "source_page": "",
+      "author": "",
+      "license": "",
+      "license_url": "",
+      "source_image": "/Users/grafov/.codex/generated_images/01a13073-015d-7f32-8578-ade38d5a21c2/exec-ea91c868-d07f-445b-bf71-466b35e0dd25.png",
+      "alt_en": "Consultation table with notebooks and two chairs",
+      "alt_fr": "Table de consultation avec des carnets et deux chaises",
+      "prompt": "Use case: photorealistic-natural. Asset type: lawyer website homepage hero, wide1536x1024. An original refined editorial photograph of an empty legal consultation table prepared for a calm client meeting. Contemporary Canadian office aesthetic, a rounded oak table set with two plain cream notebooks and black pens, two elegant navy upholstered chairs opposite each other, softly frosted tall window with diffuse Atlantic daylight, a simple green plant in distant corner. No people, no readable writing, no client information, no screens, no scales or gavel, no logos, no watermark. Eye-level diagonal view across the table, tactile wood and linen, realistic restrained luxury. Natural spacious composition with calm visual breathing room. Single photographic scene of a generic space, no identifiable actual office.",
+      "relevance_reason": "Consultation table supports legal guidance."
+    },
+    {
+      "asset": "unique-editorial-049.webp",
+      "title": "White modern house behind green hedge under blue sky",
+      "pool": "editorial",
+      "width": 1536,
+      "height": 1024,
+      "source_page": "https://unsplash.com/photos/white-modern-house-behind-green-hedge-under-blue-sky-j9Lr0fuSiLA",
+      "source_image": "https://images.unsplash.com/photo-1759004673924-da9bd63dbb16",
+      "author": "Pinu H",
+      "license": "Unsplash License",
+      "license_url": "https://unsplash.com/license",
+      "alt_en": "White modern house behind green hedge under blue sky",
+      "alt_fr": "Maison blanche contemporaine derrière une haie",
+      "location": "",
+      "method": "Licensed source photograph",
+      "prompt": "",
+      "relevance_reason": "Residential property for real-estate services."
+    },
+    {
+      "asset": "unique-editorial-055.webp",
+      "title": "Empty conference room with chairs arranged in a circle",
+      "pool": "editorial",
+      "width": 1153,
+      "height": 1536,
+      "source_page": "https://unsplash.com/photos/empty-conference-room-with-chairs-arranged-in-a-circle-Bx7nJG0x6xo",
+      "source_image": "https://images.unsplash.com/photo-1777326587610-1ddcce610a5c",
+      "author": "Kin Shing Lai",
+      "license": "Unsplash License",
+      "license_url": "https://unsplash.com/license",
+      "alt_en": "Empty conference room with chairs arranged in a circle",
+      "alt_fr": "Sièges disposés en cercle dans une salle avec poutres apparentes",
+      "location": "",
+      "method": "Licensed source photograph",
+      "prompt": "",
+      "relevance_reason": "Small meeting room arranged for discussion supports family-law consultation."
+    },
+    {
+      "asset": "unique-legal-035.webp",
+      "title": "Plain navy and burgundy bound books on a wooden shelf",
+      "pool": "legal",
+      "width": 1536,
+      "height": 1024,
+      "source_page": "generated:unique-legal-035",
+      "source_image": "/Users/grafov/.codex/generated_images/01a13073-015d-7f32-8578-ade38d5a21c2/exec-37e3c707-c903-4c48-9fcc-9c9385dc42fc.png",
+      "author": "",
+      "license": "",
+      "license_url": "",
+      "alt_en": "Plain navy and burgundy bound books on a wooden shelf",
+      "alt_fr": "Livres reliés bleu marine et bordeaux sur une étagère en bois",
+      "location": "",
+      "method": "built-in image_gen",
+      "prompt": "Original photorealistic editorial photograph for a Canadian legal website, landscape1536x1024. Extreme close photograph of richly textured plain navy and burgundy bound law books arranged vertically on a walnut shelf, one volume gently leaning, soft warm window light grazing the bindings. Spines entirely blank, no readable titles, no text, no people, no logos or watermark. Beautiful restrained abstract pattern of paper, leather and wood, realistic slightly aged materials, narrow depth of field.",
+      "relevance_reason": "Bound reference volumes for wills and estate planning."
+    },
+    {
+      "asset": "unique-editorial-050.webp",
+      "title": "A conference room with a large wooden table and leather chairs",
+      "pool": "editorial",
+      "width": 1536,
+      "height": 960,
+      "source_page": "https://unsplash.com/photos/a-conference-room-with-a-large-wooden-table-and-leather-chairs-znrDHyqHpSI",
+      "source_image": "https://images.unsplash.com/photo-1729551610680-c6ea05b08937",
+      "author": "Bennie Bates",
+      "license": "Unsplash License",
+      "license_url": "https://unsplash.com/license",
+      "alt_en": "A conference room with a large wooden table and leather chairs",
+      "alt_fr": "Grande table en bois et fauteuils dans une salle de réunion",
+      "location": "",
+      "method": "Licensed source photograph",
+      "prompt": "",
+      "relevance_reason": "Business meeting table for commercial agreements."
+    },
+    {
+      "asset": "unique-editorial-048.webp",
+      "title": "white and gray house near green trees under white sky during daytime",
+      "pool": "editorial",
+      "width": 1269,
+      "height": 1536,
+      "source_page": "https://unsplash.com/photos/white-and-gray-house-near-green-trees-under-white-sky-during-daytime-A08iA0NyKZo",
+      "source_image": "https://images.unsplash.com/photo-1612312933146-06d98e301654",
+      "author": "Andrew Winkler",
+      "license": "Unsplash License",
+      "license_url": "https://unsplash.com/license",
+      "alt_en": "White and gray house near green trees under white sky during daytime",
+      "alt_fr": "Maison blanche et grise avec jardin",
+      "location": "",
+      "method": "Licensed source photograph",
+      "prompt": "",
+      "relevance_reason": "Residential building for tenancy matters."
+    },
+    {
+      "asset": "unique-editorial-018.webp",
+      "title": "File:Law library at Umich.jpg",
+      "pool": "editorial",
+      "width": 1536,
+      "height": 1024,
+      "source_page": "https://commons.wikimedia.org/wiki/File:Law_library_at_Umich.jpg",
+      "source_image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b1/Law_library_at_Umich.jpg/1920px-Law_library_at_Umich.jpg",
+      "author": "Cadop",
+      "license": "CC0",
+      "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "alt_en": "Law library at Umich",
+      "alt_fr": "Bibliothèque de droit — Law library at Umich",
+      "location": "",
+      "method": "Licensed source photograph",
+      "prompt": "",
+      "relevance_reason": "Law-library interior supports research in civil disputes."
+    },
+    {
+      "asset": "homepage-en-local.webp",
+      "width": 1536,
+      "height": 1024,
+      "source_page": "",
+      "author": "",
+      "license": "",
+      "license_url": "",
+      "source_image": "/Users/grafov/.codex/generated_images/01a13073-015d-7f32-8578-ade38d5a21c2/exec-0bf5f35d-6359-418f-8e52-93938fd8a8ce.png",
+      "alt_en": "Cedar-shingled coastal house beside a sheltered inlet",
+      "alt_fr": "Maison côtière en bardeaux de cèdre au bord d’une anse",
+      "prompt": "Use case: photorealistic-natural. Asset type: Nova Scotia legal practice homepage local feature, wide1536x1024. Create a gorgeous original authentic architectural landscape photograph of a modest cedar-shingled coastal house typical of rural Nova Scotia, with simple white-trimmed windows, slate-grey roof and a small wooden front porch, surrounded by long sea grasses and a few spruce trees, calm Atlantic inlet visible behind. Late September diffuse afternoon sunlight, slightly weathered materials and natural earthy colours, no people, no cars, no signs, no text, no logos, no watermark. Generic fictional coastal home, no recognizable actual landmark, not a specific client property. Three-quarter exterior view, house as clear main subject in a spacious landscape. Sophisticated documentary photograph with truthful scale, quiet community feeling.",
+      "relevance_reason": "Coastal residential scene accompanies regional service coverage."
+    }
+  ],
+  "/fr/": [
+    {
+      "asset": "homepage-fr-hero.webp",
+      "width": 1536,
+      "height": 1024,
+      "source_page": "",
+      "author": "",
+      "license": "",
+      "license_url": "",
+      "source_image": "/Users/grafov/.codex/generated_images/01a13073-015d-7f32-8578-ade38d5a21c2/exec-b2d3f102-9976-4ee1-a92a-813de80fd49d.png",
+      "alt_en": "Quiet consultation room with a desk and bookshelves",
+      "alt_fr": "Salle de consultation calme avec un bureau et une bibliothèque",
+      "prompt": "Use case: photorealistic-natural. Asset type: French lawyer website homepage hero, wide1536x1024. Create an original architectural editorial photograph of a quiet small legal consultation room with no people. View through an open doorway into a room with a rectangular dark walnut desk, one charcoal leather guest armchair at its near end and a matching chair behind, closed pale folders neatly stacked at right, a warm brass reading lamp at left and full height built-in shelves of neutral unlettered books at back. Diffuse cool morning light from a side window, subtle sage wall, sophisticated warm muted palette and beautifully realistic materials. Distinct intimate enclosed composition, not round table. No words, no legible papers, no logos, no scales or gavel, no watermark. Generic fictional room, no actual law office claim.",
+      "relevance_reason": "Private consultation room supports legal guidance."
+    },
+    {
+      "asset": "unique-editorial-035.webp",
+      "title": "Hand holding house keys over miniature houses",
+      "pool": "editorial",
+      "width": 1536,
+      "height": 1025,
+      "source_page": "https://unsplash.com/photos/hand-holding-house-keys-over-miniature-houses-t0CRdNl_mTg",
+      "source_image": "https://images.unsplash.com/photo-1759428679273-11d914866394",
+      "author": "Jakub Żerdzicki",
+      "license": "Unsplash License",
+      "license_url": "https://unsplash.com/license",
+      "alt_en": "Hand holding house keys over miniature houses",
+      "alt_fr": "Main tenant des clés au-dessus de petites maisons",
+      "location": "",
+      "method": "Licensed source photograph",
+      "prompt": "",
+      "relevance_reason": "Keys and model homes directly express a property transaction."
+    },
+    {
+      "asset": "unique-editorial-001.webp",
+      "title": "File:Kolb home office interior design by Zalaba.jpg",
+      "pool": "editorial",
+      "width": 1536,
+      "height": 1024,
+      "source_page": "https://commons.wikimedia.org/wiki/File:Kolb_home_office_interior_design_by_Zalaba.jpg",
+      "source_image": "https://upload.wikimedia.org/wikipedia/commons/6/69/Kolb_home_office_interior_design_by_Zalaba.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "author": "Zalabadesign",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "alt_en": "Home office with glass desk and lounge chair",
+      "alt_fr": "Bureau à domicile avec table en verre et fauteuil",
+      "location": "",
+      "method": "Licensed source photograph",
+      "prompt": "",
+      "relevance_reason": "Private consultation workspace supports a confidential family-law conversation."
+    },
+    {
+      "asset": "unique-editorial-027.webp",
+      "title": "an open notebook with a pen on a wooden desk",
+      "pool": "editorial",
+      "width": 1536,
+      "height": 1024,
+      "source_page": "https://unsplash.com/photos/an-open-notebook-with-a-pen-on-a-wooden-desk-6e7F96dBlAA",
+      "source_image": "https://images.unsplash.com/photo-1772396867158-e26d9e6256b2",
+      "author": "Gabriel Cox",
+      "license": "Unsplash License",
+      "license_url": "https://unsplash.com/license",
+      "alt_en": "An open notebook with a pen on a wooden desk",
+      "alt_fr": "Carnet ouvert et stylo sur une table en bois",
+      "location": "",
+      "method": "Licensed source photograph",
+      "prompt": "",
+      "relevance_reason": "Notebook and pen support recording estate-planning instructions."
+    },
+    {
+      "asset": "unique-editorial-054.webp",
+      "title": "beige wooden conference table",
+      "pool": "editorial",
+      "width": 1536,
+      "height": 1229,
+      "source_page": "https://unsplash.com/photos/beige-wooden-conference-table-_-KLkj7on_c",
+      "source_image": "https://images.unsplash.com/photo-1517502884422-41eaead166d4",
+      "author": "Dane Deaner",
+      "license": "Unsplash License",
+      "license_url": "https://unsplash.com/license",
+      "alt_en": "Beige wooden conference table",
+      "alt_fr": "Table en bois clair devant des fenêtres",
+      "location": "",
+      "method": "Licensed source photograph",
+      "prompt": "",
+      "relevance_reason": "Small professional meeting room supports commercial agreements."
+    },
+    {
+      "asset": "unique-editorial-036.webp",
+      "title": "Holding house keys in front of the entrance",
+      "pool": "editorial",
+      "width": 1536,
+      "height": 1025,
+      "source_page": "https://unsplash.com/photos/holding-house-keys-in-front-of-the-entrance-bqUZEAeWuok",
+      "source_image": "https://images.unsplash.com/photo-1741156386380-0236c72eb6f9",
+      "author": "Jakub Żerdzicki",
+      "license": "Unsplash License",
+      "license_url": "https://unsplash.com/license",
+      "alt_en": "Holding house keys in front of the entrance",
+      "alt_fr": "Main tenant des clés devant une porte",
+      "location": "",
+      "method": "Licensed source photograph",
+      "prompt": "",
+      "relevance_reason": "Keys at a residential entrance directly express renting a home."
+    },
+    {
+      "asset": "unique-editorial-012.webp",
+      "title": "File:Yale Law Library.JPG",
+      "pool": "editorial",
+      "width": 1536,
+      "height": 1024,
+      "source_page": "https://commons.wikimedia.org/wiki/File:Yale_Law_Library.JPG",
+      "source_image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6a/Yale_Law_Library.JPG/1920px-Yale_Law_Library.JPG",
+      "author": "Nick Allen",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+      "alt_en": "Yale Law Library",
+      "alt_fr": "Bibliothèque de droit — Yale Law Library",
+      "location": "",
+      "method": "Licensed source photograph",
+      "prompt": "",
+      "relevance_reason": "Law-library reading room supports civil legal research."
+    },
+    {
+      "asset": "homepage-fr-local.webp",
+      "width": 1536,
+      "height": 1024,
+      "source_page": "",
+      "author": "",
+      "license": "",
+      "license_url": "",
+      "source_image": "/Users/grafov/.codex/generated_images/01a13073-015d-7f32-8578-ade38d5a21c2/exec-46f6d548-ea3c-4b50-8f2e-fd3b070189a4.png",
+      "alt_en": "Quiet seaside residential street with colourful houses",
+      "alt_fr": "Rue résidentielle paisible en bord de mer avec des maisons colorées",
+      "prompt": "Use case: photorealistic-natural. Asset type: French Nova Scotia legal practice homepage local feature, wide1536x1024. Create an original high quality editorial landscape photograph of a quiet residential street in a generic small Nova Scotia seaside town. Eye-level view along a gently sloping narrow street lined with distinct traditional clapboard homes painted muted pale blue, cream and soft green, small front gardens and deciduous trees with early autumn leaves, a glimpse of blue-grey harbour water far at the end of the street. Soft clear morning sky, relaxed community atmosphere, realistic maritime architecture, no people, no traffic, no street signs, no readable text, no logos, no watermark. Entirely fictional location, no actual landmark or claimed client property. The street is the main subject, not a solitary home. Elegant professional documentary realism.",
+      "relevance_reason": "Seaside residential street accompanies regional service coverage."
+    }
+  ],
+  "/topics/": [
+    {
+      "asset": "unique-legal-001.webp",
+      "title": "Bronze door handle at a stone courthouse entrance",
+      "pool": "legal",
+      "width": 1536,
+      "height": 1024,
+      "source_page": "generated:unique-legal-001",
+      "source_image": "/Users/grafov/.codex/generated_images/01a13073-015d-7f32-8578-ade38d5a21c2/exec-7d69d5e8-eac4-4448-8f0d-d904d24f5554.png",
+      "author": "",
+      "license": "",
+      "license_url": "",
+      "alt_en": "Bronze door handle at a stone courthouse entrance",
+      "alt_fr": "Poignée de porte en bronze à l’entrée d’un palais de justice en pierre",
+      "location": "",
+      "method": "built-in image_gen",
+      "prompt": "Original photorealistic editorial image for a Canadian legal website, landscape1536x1024. Close view of a beautifully crafted bronze courthouse door handle on an imposing pale limestone entrance, shallow perspective, softly reflected morning sky in glass panels. Refined architecture photograph, sober dignity, warm metallic texture, no people, no words, no emblems, no watermark. Fictional generic courthouse entrance, not an identifiable real building.",
+      "relevance_reason": "Civic entrance introduces legal practice areas."
+    },
+    {
+      "asset": "unique-ns-095.webp",
+      "title": "File:Halifax Waterfront in Nova Scotia (April 2024).jpg",
+      "pool": "ns",
+      "width": 1536,
+      "height": 1152,
+      "source_page": "https://commons.wikimedia.org/wiki/File:Halifax_Waterfront_in_Nova_Scotia_(April_2024).jpg",
+      "source_image": "https://upload.wikimedia.org/wikipedia/commons/b/b6/Halifax_Waterfront_in_Nova_Scotia_%28April_2024%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "author": "Daeva Trạc",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "alt_en": "Street and buildings near the Halifax waterfront",
+      "alt_fr": "Rue et bâtiments près du bord de mer de Halifax",
+      "location": "Halifax",
+      "method": "Licensed source photograph",
+      "prompt": "",
+      "relevance_reason": "Halifax street and buildings provide local real-estate context."
+    },
+    {
+      "asset": "unique-editorial-024.webp",
+      "title": "an empty conference room with desks and chairs",
+      "pool": "editorial",
+      "width": 1536,
+      "height": 1024,
+      "source_page": "https://unsplash.com/photos/an-empty-conference-room-with-desks-and-chairs-bV5dFLEYecM",
+      "source_image": "https://images.unsplash.com/photo-1637665599155-abfcf9fc3f78",
+      "author": "Craig Lovelidge",
+      "license": "Unsplash License",
+      "license_url": "https://unsplash.com/license",
+      "alt_en": "An empty conference room with desks and chairs",
+      "alt_fr": "Tables et chaises dans une salle de conférence",
+      "location": "",
+      "method": "Licensed source photograph",
+      "prompt": "",
+      "relevance_reason": "Small meeting setting represents a family-law consultation."
+    },
+    {
+      "asset": "unique-editorial-038.webp",
+      "title": "a pen sitting on top of a stack of papers",
+      "pool": "editorial",
+      "width": 1151,
+      "height": 1536,
+      "source_page": "https://unsplash.com/photos/a-pen-sitting-on-top-of-a-stack-of-papers-vss1gsle12c",
+      "source_image": "https://images.unsplash.com/photo-1649990593116-87d651c74351",
+      "author": "Kier in Sight Archives",
+      "license": "Unsplash License",
+      "license_url": "https://unsplash.com/license",
+      "alt_en": "A pen sitting on top of a stack of papers",
+      "alt_fr": "Stylo et feuilles de papier",
+      "location": "",
+      "method": "Licensed source photograph",
+      "prompt": "",
+      "relevance_reason": "Paperwork and pen represent preparing estate documents."
+    },
+    {
+      "asset": "unique-editorial-053.webp",
+      "title": "oval brown wooden conference table and chairs inside conference room",
+      "pool": "editorial",
+      "width": 1536,
+      "height": 1024,
+      "source_page": "https://unsplash.com/photos/oval-brown-wooden-conference-table-and-chairs-inside-conference-room-GWe0dlVD9e0",
+      "source_image": "https://images.unsplash.com/photo-1431540015161-0bf868a2d407",
+      "author": "Benjamin Child",
+      "license": "Unsplash License",
+      "license_url": "https://unsplash.com/license",
+      "alt_en": "Oval brown wooden conference table and chairs inside conference room",
+      "alt_fr": "Table ovale et chaises dans une salle de conférence vitrée",
+      "location": "",
+      "method": "Licensed source photograph",
+      "prompt": "",
+      "relevance_reason": "Professional meeting room supports business advice."
+    },
+    {
+      "asset": "unique-editorial-046.webp",
+      "title": "white concrete house near green trees under blue sky during daytime",
+      "pool": "editorial",
+      "width": 1536,
+      "height": 1024,
+      "source_page": "https://unsplash.com/photos/white-concrete-house-near-green-trees-under-blue-sky-during-daytime-0qir5hBOj18",
+      "source_image": "https://images.unsplash.com/photo-1628744448839-170bf324f27e",
+      "author": "Zac Gudakov",
+      "license": "Unsplash License",
+      "license_url": "https://unsplash.com/license",
+      "alt_en": "White concrete house near green trees under blue sky during daytime",
+      "alt_fr": "Allée devant une maison entourée d’arbres",
+      "location": "",
+      "method": "Licensed source photograph",
+      "prompt": "",
+      "relevance_reason": "Residential home illustrates tenancy and housing matters."
+    },
+    {
+      "asset": "unique-editorial-019.webp",
+      "title": "File:New Fordham Law library reading room 2.jpg",
+      "pool": "editorial",
+      "width": 1152,
+      "height": 1536,
+      "source_page": "https://commons.wikimedia.org/wiki/File:New_Fordham_Law_library_reading_room_2.jpg",
+      "source_image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fa/New_Fordham_Law_library_reading_room_2.jpg/1920px-New_Fordham_Law_library_reading_room_2.jpg",
+      "author": "Howchou",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "alt_en": "New Fordham Law library reading room 2",
+      "alt_fr": "Bibliothèque de droit — New Fordham Law library reading room 2",
+      "location": "",
+      "method": "Licensed source photograph",
+      "prompt": "",
+      "relevance_reason": "Law-library reading space supports civil legal research."
+    }
+  ],
+  "/fr/topics/": [
+    {
+      "asset": "unique-legal-031.webp",
+      "title": "Curved stone staircase beside a tall arched window",
+      "pool": "legal",
+      "width": 1536,
+      "height": 1024,
+      "source_page": "generated:unique-legal-031",
+      "source_image": "/Users/grafov/.codex/generated_images/01a13073-015d-7f32-8578-ade38d5a21c2/exec-2103d8a9-13a5-49c5-a95a-2875bcc91192.png",
+      "author": "",
+      "license": "",
+      "license_url": "",
+      "alt_en": "Curved stone staircase beside a tall arched window",
+      "alt_fr": "Escalier courbe en pierre près d’une grande fenêtre cintrée",
+      "location": "",
+      "method": "built-in image_gen",
+      "prompt": "Original photorealistic editorial image for a Canadian legal website, landscape1536x1024. Sculptural architectural view from the bottom of a broad gently curving stone courthouse staircase, wooden handrail and tall arched window washing soft natural light onto warm pale stone steps. Empty calm public interior, no people, no text, no logos, no recognizable real building, no watermark. Thoughtful professional architectural photography, crisp texture, elegant neutral colour.",
+      "relevance_reason": "Civic interior introduces legal practice areas."
+    },
+    {
+      "asset": "unique-editorial-045.webp",
+      "title": "Modern white house with glass garage doors and plants",
+      "pool": "editorial",
+      "width": 1536,
+      "height": 1024,
+      "source_page": "https://unsplash.com/photos/modern-white-house-with-glass-garage-doors-and-plants-MUiv6OcHoto",
+      "source_image": "https://images.unsplash.com/photo-1771366260867-7e07094579d7",
+      "author": "GoodLifeConstruction",
+      "license": "Unsplash License",
+      "license_url": "https://unsplash.com/license",
+      "alt_en": "Modern white house with glass garage doors and plants",
+      "alt_fr": "Maison contemporaine blanche avec portes de garage vitrées",
+      "location": "",
+      "method": "Licensed source photograph",
+      "prompt": "",
+      "relevance_reason": "Residential home directly supports property transactions."
+    },
+    {
+      "asset": "unique-legal-037.webp",
+      "title": "Bright mediation room with a long meeting table",
+      "pool": "legal",
+      "width": 1536,
+      "height": 1024,
+      "source_page": "generated:unique-legal-037",
+      "source_image": "/Users/grafov/.codex/generated_images/01a13073-015d-7f32-8578-ade38d5a21c2/exec-8c235a8b-3a8d-4425-a8b9-532b611ba6c3.png",
+      "author": "",
+      "license": "",
+      "license_url": "",
+      "alt_en": "Bright mediation room with a long meeting table",
+      "alt_fr": "Salle de médiation lumineuse avec une longue table",
+      "location": "",
+      "method": "built-in image_gen",
+      "prompt": "Original photorealistic editorial photograph for a Canadian legal website, landscape1536x1024. Quiet modern mediation room seen from one end of a long rectangular ash wood meeting table, three light grey upholstered chairs on each side, a neutral framed landscape on the far white wall and a large window off left lighting a small green potted plant. Clean architectural lines, generous space, natural daylight, high-end professional photography. No people, no documents or words, no logos, no watermark; fictional generic room.",
+      "relevance_reason": "Private mediation table supports family discussions."
+    },
+    {
+      "asset": "unique-editorial-043.webp",
+      "title": "a pen sitting on top of a piece of paper",
+      "pool": "editorial",
+      "width": 1536,
+      "height": 1025,
+      "source_page": "https://unsplash.com/photos/a-pen-sitting-on-top-of-a-piece-of-paper-6FpGIdn45_A",
+      "source_image": "https://images.unsplash.com/photo-1634562876572-5abe57afcceb",
+      "author": "Towfiqu barbhuiya",
+      "license": "Unsplash License",
+      "license_url": "https://unsplash.com/license",
+      "alt_en": "A pen sitting on top of a piece of paper",
+      "alt_fr": "Stylo-plume sur une lettre",
+      "location": "",
+      "method": "Licensed source photograph",
+      "prompt": "",
+      "relevance_reason": "Personal written correspondence supports recording estate wishes."
+    },
+    {
+      "asset": "unique-ns-097.webp",
+      "title": "File:Queen's Marque in Halifax, Nova Scotia, Canada.jpg",
+      "pool": "ns",
+      "width": 1536,
+      "height": 864,
+      "source_page": "https://commons.wikimedia.org/wiki/File:Queen%27s_Marque_in_Halifax,_Nova_Scotia,_Canada.jpg",
+      "source_image": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Queen%27s_Marque_in_Halifax%2C_Nova_Scotia%2C_Canada.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "author": "A Disappearing Act",
+      "license": "CC BY-SA 2.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+      "alt_en": "Modern architecture at Queen’s Marque in Halifax",
+      "alt_fr": "Architecture contemporaine à Queen’s Marque à Halifax",
+      "location": "Halifax",
+      "method": "Licensed source photograph",
+      "prompt": "",
+      "relevance_reason": "Halifax commercial architecture supports business-premises and contracts advice."
+    },
+    {
+      "asset": "unique-editorial-023.webp",
+      "title": "sunlight fills an empty room with large windows",
+      "pool": "editorial",
+      "width": 1536,
+      "height": 1018,
+      "source_page": "https://unsplash.com/photos/sunlight-fills-an-empty-room-with-large-windows-e-jR0DlAN6k",
+      "source_image": "https://images.unsplash.com/photo-1753596109465-565b8fc96300",
+      "author": "Bradley Andrews",
+      "license": "Unsplash License",
+      "license_url": "https://unsplash.com/license",
+      "alt_en": "Sunlight fills an empty room with large windows",
+      "alt_fr": "Lumière naturelle dans une pièce vide",
+      "location": "",
+      "method": "Licensed source photograph",
+      "prompt": "",
+      "relevance_reason": "Residential-style interior with doors illustrates premises and occupancy."
+    },
+    {
+      "asset": "unique-editorial-015.webp",
+      "title": "File:Indiana Supreme Court Law Library bookshelves.jpg",
+      "pool": "editorial",
+      "width": 1536,
+      "height": 1152,
+      "source_page": "https://commons.wikimedia.org/wiki/File:Indiana_Supreme_Court_Law_Library_bookshelves.jpg",
+      "source_image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/43/Indiana_Supreme_Court_Law_Library_bookshelves.jpg/1920px-Indiana_Supreme_Court_Law_Library_bookshelves.jpg",
+      "author": "LingLass",
+      "license": "CC0",
+      "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "alt_en": "Indiana Supreme Court Law Library bookshelves",
+      "alt_fr": "Bibliothèque de droit — Indiana Supreme Court Law Library bookshelves",
+      "location": "",
+      "method": "Licensed source photograph",
+      "prompt": "",
+      "relevance_reason": "Law-library stacks support civil legal research."
+    }
+  ],
+  "/404/": [
+    {
+      "asset": "unique-ns-142.webp",
+      "title": "File:The Wave in 2025.jpg",
+      "pool": "ns",
+      "width": 1536,
+      "height": 1046,
+      "source_page": "https://commons.wikimedia.org/wiki/File:The_Wave_in_2025.jpg",
+      "source_image": "https://upload.wikimedia.org/wikipedia/commons/7/79/The_Wave_in_2025.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "author": "A Disappearing Act",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "alt_en": "The Wave sculpture on the Halifax waterfront",
+      "alt_fr": "Sculpture The Wave au bord de l’eau à Halifax",
+      "location": "Halifax",
+      "method": "Licensed source photograph",
+      "prompt": "",
+      "relevance_reason": "Recognizable Halifax waterfront sculpture keeps error page connected to the service location."
+    }
+  ],
+  "/fr/404/": [
+    {
+      "asset": "unique-ns-143.webp",
+      "title": "File:Waterfront Promenade (48532669381).jpg",
+      "pool": "ns",
+      "width": 1536,
+      "height": 1152,
+      "source_page": "https://commons.wikimedia.org/wiki/File:Waterfront_Promenade_(48532669381).jpg",
+      "source_image": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Waterfront_Promenade_%2848532669381%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "author": "WabbitWanderer from London, Canada",
+      "license": "CC BY-SA 2.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+      "alt_en": "Halifax waterfront promenade beside the harbour",
+      "alt_fr": "Promenade au bord du port de Halifax",
+      "location": "Halifax",
+      "method": "Licensed source photograph",
+      "prompt": "",
+      "relevance_reason": "Halifax waterfront promenade keeps error page connected to the service location."
+    }
+  ],
+  "/about/": [
+    {
+      "asset": "kostyantyn-courtroom.jpg",
+      "width": 1600,
+      "height": 900,
+      "alt_en": "Kostyantyn Mykhalchenko in court dress in a courtroom",
+      "alt_fr": "Kostyantyn Mykhalchenko en tenue d’avocat dans une salle d’audience",
+      "source_page": "user-supplied:KM1.jpg",
+      "source_image": "/Users/grafov/Desktop/KM1.jpg",
+      "author": "",
+      "license": "User supplied for website publication",
+      "license_url": "",
+      "method": "Original photograph supplied by user; copied without retouching",
+      "relevance_reason": "User-supplied professional photograph of the lawyer whose biography appears on this page.",
+      "sha256": "81175890758fcbed3377e60c73a0d1c385cbdf3269c5fc3f9c518bb74820e0b5"
+    },
+    {
+      "asset": "kostyantyn-certificate.jpg",
+      "width": 1152,
+      "height": 2048,
+      "alt_en": "Kostyantyn Mykhalchenko holding a Nova Scotia Barristers’ Society certificate",
+      "alt_fr": "Kostyantyn Mykhalchenko tenant un certificat de la Nova Scotia Barristers’ Society",
+      "source_page": "user-supplied:KM2.jpg",
+      "source_image": "/Users/grafov/Desktop/KM2.jpg",
+      "author": "",
+      "license": "User supplied for website publication",
+      "license_url": "",
+      "method": "Original photograph supplied by user; copied without retouching",
+      "relevance_reason": "User-supplied photograph of the lawyer holding his professional certificate, alongside the official status-directory link.",
+      "sha256": "5ef3aa62f16394d28e7744c926326ea7a35375044527c3dae768ee5a629881c0"
+    }
+  ],
+  "/fr/about/": [
+    {
+      "asset": "unique-ns-138.webp",
+      "title": "File:Halifax Ferry Terminal (48540453041).jpg",
+      "pool": "ns",
+      "width": 1536,
+      "height": 1152,
+      "source_page": "https://commons.wikimedia.org/wiki/File:Halifax_Ferry_Terminal_(48540453041).jpg",
+      "source_image": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Halifax_Ferry_Terminal_%2848540453041%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "author": "WabbitWanderer from London, Canada",
+      "license": "CC BY-SA 2.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+      "alt_en": "Harbour ferry approaching the Halifax waterfront",
+      "alt_fr": "Traversier approchant du bord de mer de Halifax",
+      "location": "Halifax",
+      "method": "Licensed source photograph",
+      "prompt": "",
+      "relevance_reason": "Halifax ferry and waterfront establish the lawyers’ stated local service context."
+    },
+    {
+      "skip": true,
+      "relevance_reason": "Omit a redundant secondary photograph rather than add weakly related filler."
+    }
+  ],
+  "/contact/": [
+    {
+      "asset": "unique-legal-075.webp",
+      "title": "Envelopes and a document wallet on a table",
+      "pool": "legal",
+      "width": 1536,
+      "height": 1024,
+      "source_page": "generated:unique-legal-075",
+      "source_image": "/Users/grafov/.codex/generated_images/01a13073-015d-7f32-8578-ade38d5a21c2/exec-e5ff6f3e-61c0-4b72-b5cc-51721ebe77ed.png",
+      "author": "",
+      "license": "",
+      "license_url": "",
+      "alt_en": "Envelopes and a document wallet on a table",
+      "alt_fr": "Enveloppes et chemise à documents sur une table",
+      "location": "",
+      "method": "built-in image_gen",
+      "prompt": "Original photorealistic editorial photograph for Canadian legal practice website,1536x1024 landscape. Close view of three blank cream envelopes and a plain brown string-tie document wallet arranged in a fan across a charcoal wool tabletop, tiny brass letter opener beside them, raking soft daylight and beautiful tactile paper. Beautiful professional photography, realistic proportions and textures. No people, no readable text, no logos, no watermarks, no gavel, no identifiable client records. Generic fictional scene, not an actual practice office.",
+      "relevance_reason": "Envelopes and document wallet directly support contacting the practice."
+    },
+    {
+      "skip": true,
+      "relevance_reason": "Omit a redundant secondary photograph rather than add weakly related filler."
+    }
+  ],
+  "/fr/contact/": [
+    {
+      "asset": "unique-editorial-041.webp",
+      "title": "Blank paper and a pen ready for writing",
+      "pool": "editorial",
+      "width": 1152,
+      "height": 1536,
+      "source_page": "https://unsplash.com/photos/blank-paper-and-a-pen-ready-for-writing-0OWPKn7EXfM",
+      "source_image": "https://images.unsplash.com/photo-1754397956583-e013f1d68756",
+      "author": "Haberdoedas",
+      "license": "Unsplash License",
+      "license_url": "https://unsplash.com/license",
+      "alt_en": "Blank paper and a pen ready for writing",
+      "alt_fr": "Feuille blanche et crayon sur une table",
+      "location": "",
+      "method": "Licensed source photograph",
+      "prompt": "",
+      "relevance_reason": "Blank paper and pen directly support writing an enquiry."
+    },
+    {
+      "skip": true,
+      "relevance_reason": "Omit a redundant secondary photograph rather than add weakly related filler."
+    }
+  ],
+  "/faq/": [
+    {
+      "asset": "unique-legal-066.webp",
+      "title": "Curved wooden bench beside a courthouse window",
+      "pool": "legal",
+      "width": 1536,
+      "height": 1024,
+      "source_page": "generated:unique-legal-066",
+      "source_image": "/Users/grafov/.codex/generated_images/01a13073-015d-7f32-8578-ade38d5a21c2/exec-e71c37d5-75f5-4fcb-86fe-9bd14a39ef31.png",
+      "author": "",
+      "license": "",
+      "license_url": "",
+      "alt_en": "Curved wooden bench beside a courthouse window",
+      "alt_fr": "Banc courbe en bois près d’une fenêtre de palais de justice",
+      "location": "",
+      "method": "built-in image_gen",
+      "prompt": "Original photorealistic editorial photograph for Canadian legal practice website,1536x1024 landscape. An empty courthouse lobby bench made of curved pale maple slats, on a charcoal stone floor beside a full-height narrow frosted window, close minimalist architectural composition with subtle reflected light. Beautiful professional photography, realistic proportions and textures. No people, no readable text, no logos, no watermarks, no gavel, no identifiable client records. Generic fictional scene, not an actual practice office.",
+      "relevance_reason": "Court waiting-area bench supports practical questions about navigating legal matters."
+    },
+    {
+      "skip": true,
+      "relevance_reason": "Omit a redundant secondary photograph rather than add weakly related filler."
+    }
+  ],
+  "/fr/faq/": [
+    {
+      "asset": "unique-editorial-016.webp",
+      "title": "File:Interior of Kwa Geok Choo Law Library @ SMU.jpg",
+      "pool": "editorial",
+      "width": 1536,
+      "height": 1229,
+      "source_page": "https://commons.wikimedia.org/wiki/File:Interior_of_Kwa_Geok_Choo_Law_Library_@_SMU.jpg",
+      "source_image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6f/Interior_of_Kwa_Geok_Choo_Law_Library_%40_SMU.jpg/1920px-Interior_of_Kwa_Geok_Choo_Law_Library_%40_SMU.jpg",
+      "author": "NoPhysicist",
+      "license": "CC0",
+      "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "alt_en": "Interior of Kwa Geok Choo Law Library @ SMU",
+      "alt_fr": "Bibliothèque de droit — Interior of Kwa Geok Choo Law Library @ SMU",
+      "location": "",
+      "method": "Licensed source photograph",
+      "prompt": "",
+      "relevance_reason": "Library study space supports finding answers to legal questions."
+    },
+    {
+      "skip": true,
+      "relevance_reason": "Omit a redundant secondary photograph rather than add weakly related filler."
+    }
+  ],
+  "/privacy/": [
+    {
+      "asset": "relevance-neutral-001.webp",
+      "source": "/Users/grafov/.codex/generated_images/01a13073-015d-7f32-8578-ade38d5a21c2/exec-eed70083-84cf-44f9-86fd-6e76ff8ec404.png",
+      "prompt": "Original photorealistic editorial photograph for a Nova Scotia legal practice website,1536x1024 landscape. A slim sealed pale grey correspondence folio with a small unmarked white seal, placed diagonally on a charcoal felt reception tray on a soft sand-coloured counter. Close low side view, a completely opaque warm plaster wall fills the entire background. A tiny dried stem in a matte vessel at the far edge. No notebooks, books, envelopes fanned out or desks visible. Carefully lit realistic paper texture. Distinct independent photographic composition with restrained professional quality. No people, no text, no logos, no watermarks, no skyline, no parliament, no tower, no recognizable place. All backgrounds opaque or absent; absolutely no view outdoors. Generic neutral legal materials/interior, not an actual practice location.",
+      "alt_en": "Sealed correspondence envelope on a felt tray",
+      "alt_fr": "Enveloppe scellée sur un plateau en feutre",
+      "method": "built-in image_gen",
+      "source_image": "/Users/grafov/.codex/generated_images/01a13073-015d-7f32-8578-ade38d5a21c2/exec-eed70083-84cf-44f9-86fd-6e76ff8ec404.png",
+      "source_page": "generated:relevance-neutral-001",
+      "title": "Sealed correspondence envelope on a felt tray",
+      "author": "",
+      "license": "",
+      "license_url": "",
+      "caption_en": "Sealed correspondence envelope on a felt tray",
+      "caption_fr": "Enveloppe scellée sur un plateau en feutre",
+      "dimensions": [
+        1536,
+        1024
+      ],
+      "sha256": "3c5cbd23112ef4721b3f2554189c3b3cb6ca9fe61da6b78a5296bb4f561d59db",
+      "modifications": "Converted to WebP.",
+      "visual_review": "passed; opaque or absent background, no identifiable skyline",
+      "relevance_reason": "Sealed correspondence supports the privacy and careful information-sharing guidance.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "skip": true,
+      "relevance_reason": "Omit a redundant secondary photograph rather than add weakly related filler."
+    }
+  ],
+  "/fr/privacy/": [
+    {
+      "asset": "unique-legal-069.webp",
+      "title": "Document case with neatly arranged folders",
+      "pool": "legal",
+      "width": 1536,
+      "height": 1024,
+      "source_page": "generated:unique-legal-069",
+      "source_image": "/Users/grafov/.codex/generated_images/01a13073-015d-7f32-8578-ade38d5a21c2/exec-7d66b7ca-859f-4435-9695-1eda0e7930f5.png",
+      "author": "",
+      "license": "",
+      "license_url": "",
+      "alt_en": "Document case with neatly arranged folders",
+      "alt_fr": "Porte-documents contenant des dossiers bien rangés",
+      "location": "",
+      "method": "built-in image_gen",
+      "prompt": "Original photorealistic editorial photograph for Canadian legal practice website,1536x1024 landscape. Close-up of a modern grey fabric document case slightly unzipped to reveal neatly closed plain pastel folders, sitting on a muted green reception sofa, soft calm afternoon daylight. Beautiful professional photography, realistic proportions and textures. No people, no readable text, no logos, no watermarks, no gavel, no identifiable client records. Generic fictional scene, not an actual practice office.",
+      "relevance_reason": "Closed document case directly represents keeping client papers contained."
+    },
+    {
+      "skip": true,
+      "relevance_reason": "Omit a redundant secondary photograph rather than add weakly related filler."
+    }
+  ],
+  "/resources/": [
+    {
+      "asset": "unique-editorial-028.webp",
+      "title": "stack of books on table",
+      "pool": "editorial",
+      "width": 1536,
+      "height": 1024,
+      "source_page": "https://unsplash.com/photos/stack-of-books-on-table-snNHKZ-mGfE",
+      "source_image": "https://images.unsplash.com/photo-1583521214690-73421a1829a9",
+      "author": "Wesley Tingey",
+      "license": "Unsplash License",
+      "license_url": "https://unsplash.com/license",
+      "alt_en": "Stack of books on table",
+      "alt_fr": "Piles de dossiers et de documents papier",
+      "location": "",
+      "method": "Licensed source photograph",
+      "prompt": "",
+      "relevance_reason": "Reference materials support finding legal information."
+    },
+    {
+      "skip": true,
+      "relevance_reason": "Omit a redundant secondary photograph rather than add weakly related filler."
+    }
+  ],
+  "/fr/resources/": [
+    {
+      "asset": "unique-editorial-033.webp",
+      "title": "books on bookshelf",
+      "pool": "editorial",
+      "width": 1536,
+      "height": 1152,
+      "source_page": "https://unsplash.com/photos/books-on-bookshelf-m3ewYVannII",
+      "source_image": "https://images.unsplash.com/photo-1508060793788-7d5f1c40c4ba",
+      "author": "CHUTTERSNAP",
+      "license": "Unsplash License",
+      "license_url": "https://unsplash.com/license",
+      "alt_en": "Books on bookshelf",
+      "alt_fr": "Rayonnages de livres dans une bibliothèque",
+      "location": "",
+      "method": "Licensed source photograph",
+      "prompt": "",
+      "relevance_reason": "Reference bookshelf supports further reading."
+    },
+    {
+      "skip": true,
+      "relevance_reason": "Omit a redundant secondary photograph rather than add weakly related filler."
+    }
+  ],
+  "/topics/property/": [
+    {
+      "asset": "unique-legal-061.webp",
+      "title": "Document binder and a house key on a table",
+      "pool": "legal",
+      "width": 1536,
+      "height": 1024,
+      "source_page": "generated:unique-legal-061",
+      "source_image": "/Users/grafov/.codex/generated_images/01a13073-015d-7f32-8578-ade38d5a21c2/exec-4ac7d29d-36bf-407b-997d-59c387b81127.png",
+      "author": "",
+      "license": "",
+      "license_url": "",
+      "alt_en": "Document binder and a house key on a table",
+      "alt_fr": "Classeur de documents et clé de maison sur une table",
+      "location": "",
+      "method": "built-in image_gen",
+      "prompt": "Original photorealistic editorial photograph for Canadian legal practice website,1536x1024 landscape. A tidy home estate-planning workspace near a window: a closed plain cream document binder tied with a simple cotton ribbon, a small old-fashioned brass house key on top, no other objects except a leafy potted plant at the edge. Quiet late afternoon light on a warm linen tabletop. Beautiful professional photography, realistic proportions and textures. No people, no readable text, no logos, no watermarks, no gavel, no identifiable client records. Generic fictional scene, not an actual practice office.",
+      "relevance_reason": "House key and document binder directly express a property closing."
+    },
+    {
+      "skip": true,
+      "relevance_reason": "Omit a redundant secondary photograph rather than add weakly related filler."
+    }
+  ],
+  "/fr/topics/property/": [
+    {
+      "asset": "unique-editorial-047.webp",
+      "title": "white house under maple trees",
+      "pool": "editorial",
+      "width": 1536,
+      "height": 1020,
+      "source_page": "https://unsplash.com/photos/white-house-under-maple-trees-1ddol8rgUH8",
+      "source_image": "https://images.unsplash.com/photo-1480074568708-e7b720bb3f09",
+      "author": "Scott Webb",
+      "license": "Unsplash License",
+      "license_url": "https://unsplash.com/license",
+      "alt_en": "White house under maple trees",
+      "alt_fr": "Maison blanche sous des érables au Canada",
+      "location": "",
+      "method": "Licensed source photograph",
+      "prompt": "",
+      "relevance_reason": "Detached home directly illustrates residential real estate."
+    },
+    {
+      "skip": true,
+      "relevance_reason": "Omit a redundant secondary photograph rather than add weakly related filler."
+    }
+  ],
+  "/topics/housing/": [
+    {
+      "asset": "unique-editorial-044.webp",
+      "title": "A monochrome shot of a house exterior",
+      "pool": "editorial",
+      "width": 1536,
+      "height": 1536,
+      "source_page": "https://unsplash.com/photos/a-monochrome-shot-of-a-house-exterior-Yp2QuYNHV7A",
+      "source_image": "https://images.unsplash.com/photo-1742815495512-327265a7c12d",
+      "author": "Haberdoedas",
+      "license": "Unsplash License",
+      "license_url": "https://unsplash.com/license",
+      "alt_en": "A monochrome shot of a house exterior",
+      "alt_fr": "Entrée résidentielle photographiée en noir et blanc",
+      "location": "",
+      "method": "Licensed source photograph",
+      "prompt": "",
+      "relevance_reason": "Residential entrance directly illustrates a tenancy setting."
+    },
+    {
+      "skip": true,
+      "relevance_reason": "Omit a redundant secondary photograph rather than add weakly related filler."
+    }
+  ],
+  "/fr/topics/housing/": [
+    {
+      "asset": "unique-editorial-037.webp",
+      "title": "Folder with house drawings and keys, miniature houses",
+      "pool": "editorial",
+      "width": 1536,
+      "height": 1025,
+      "source_page": "https://unsplash.com/photos/folder-with-house-drawings-and-keys-miniature-houses-sCV3336RlIw",
+      "source_image": "https://images.unsplash.com/photo-1759429255330-51145b170dad",
+      "author": "Jakub Żerdzicki",
+      "license": "Unsplash License",
+      "license_url": "https://unsplash.com/license",
+      "alt_en": "Folder with house drawings and keys, miniature houses",
+      "alt_fr": "Dossier, clés et maquettes de maisons",
+      "location": "",
+      "method": "Licensed source photograph",
+      "prompt": "",
+      "relevance_reason": "Housing keys, property drawings and a folder directly support tenancy documents."
+    },
+    {
+      "skip": true,
+      "relevance_reason": "Omit a redundant secondary photograph rather than add weakly related filler."
+    }
+  ],
+  "/topics/family/": [
+    {
+      "asset": "unique-editorial-052.webp",
+      "title": "a conference room with a wooden table and chairs",
+      "pool": "editorial",
+      "width": 1536,
+      "height": 865,
+      "source_page": "https://unsplash.com/photos/a-conference-room-with-a-wooden-table-and-chairs-Yngqf938yNY",
+      "source_image": "https://images.unsplash.com/photo-1697059361419-349e924ed363",
+      "author": "Jonathan Wells",
+      "license": "Unsplash License",
+      "license_url": "https://unsplash.com/license",
+      "alt_en": "A conference room with a wooden table and chairs",
+      "alt_fr": "Table de conférence près de fenêtres et de murs en briques",
+      "location": "",
+      "method": "Licensed source photograph",
+      "prompt": "",
+      "relevance_reason": "Private meeting table provides a setting for discussing family matters."
+    },
+    {
+      "skip": true,
+      "relevance_reason": "Omit a redundant secondary photograph rather than add weakly related filler."
+    }
+  ],
+  "/fr/topics/family/": [
+    {
+      "asset": "unique-editorial-051.webp",
+      "title": "Modern conference room with long wooden table and chairs",
+      "pool": "editorial",
+      "width": 1536,
+      "height": 1152,
+      "source_page": "https://unsplash.com/photos/modern-conference-room-with-long-wooden-table-and-chairs-eyz70mo9x-E",
+      "source_image": "https://images.unsplash.com/photo-1766802981801-4b4a9a1d8f1c",
+      "author": "Neon Wang",
+      "license": "Unsplash License",
+      "license_url": "https://unsplash.com/license",
+      "alt_en": "Modern conference room with long wooden table and chairs",
+      "alt_fr": "Salle de réunion lumineuse avec longue table en bois",
+      "location": "",
+      "method": "Licensed source photograph",
+      "prompt": "",
+      "relevance_reason": "Small consultation table provides a setting for discussing family matters."
+    },
+    {
+      "skip": true,
+      "relevance_reason": "Omit a redundant secondary photograph rather than add weakly related filler."
+    }
+  ],
+  "/topics/business/": [
+    {
+      "asset": "unique-editorial-021.webp",
+      "title": "empty meeting room",
+      "pool": "editorial",
+      "width": 1536,
+      "height": 1229,
+      "source_page": "https://unsplash.com/photos/empty-meeting-room-6MtJ-y1hzTs",
+      "source_image": "https://images.unsplash.com/photo-1572025442811-aa5146a780fb",
+      "author": "Slidebean",
+      "license": "Unsplash License",
+      "license_url": "https://unsplash.com/license",
+      "alt_en": "Empty meeting room",
+      "alt_fr": "Table et chaises dans une salle de réunion",
+      "location": "",
+      "method": "Licensed source photograph",
+      "prompt": "",
+      "relevance_reason": "Small business meeting room directly supports discussing commercial agreements."
+    },
+    {
+      "skip": true,
+      "relevance_reason": "Omit a redundant secondary photograph rather than add weakly related filler."
+    }
+  ],
+  "/fr/topics/business/": [
+    {
+      "asset": "unique-editorial-039.webp",
+      "title": "a pen sitting on top of a piece of paper",
+      "pool": "editorial",
+      "width": 1536,
+      "height": 909,
+      "source_page": "https://unsplash.com/photos/a-pen-sitting-on-top-of-a-piece-of-paper-E944cBacpPQ",
+      "source_image": "https://images.unsplash.com/photo-1709734110054-3b0db38c959c",
+      "author": "Niko Nieminen",
+      "license": "Unsplash License",
+      "license_url": "https://unsplash.com/license",
+      "alt_en": "A pen sitting on top of a piece of paper",
+      "alt_fr": "Stylo-plume posé sur un document",
+      "location": "",
+      "method": "Licensed source photograph",
+      "prompt": "",
+      "relevance_reason": "Financial chart and pen directly support commercial paperwork and agreements."
+    },
+    {
+      "skip": true,
+      "relevance_reason": "Omit a redundant secondary photograph rather than add weakly related filler."
+    }
+  ],
+  "/topics/wills-estates/": [
+    {
+      "asset": "unique-legal-070.webp",
+      "title": "Reference book beside a small hourglass",
+      "pool": "legal",
+      "width": 1536,
+      "height": 1024,
+      "source_page": "generated:unique-legal-070",
+      "source_image": "/Users/grafov/.codex/generated_images/01a13073-015d-7f32-8578-ade38d5a21c2/exec-f1d13ff0-03c8-48ba-976f-fd14bd267fb5.png",
+      "author": "",
+      "license": "",
+      "license_url": "",
+      "alt_en": "Reference book beside a small hourglass",
+      "alt_fr": "Livre de référence à côté d’un petit sablier",
+      "location": "",
+      "method": "built-in image_gen",
+      "prompt": "Original photorealistic editorial photograph for Canadian legal practice website,1536x1024 landscape. A closed burgundy hardback reference book standing upright beside a small clear hourglass on a cream stone desk, neutral wall and soft side light, careful still-life composition about preparation and time. Beautiful professional photography, realistic proportions and textures. No people, no readable text, no logos, no watermarks, no gavel, no identifiable client records. Generic fictional scene, not an actual practice office.",
+      "relevance_reason": "Reference book and hourglass support planning ahead."
+    },
+    {
+      "skip": true,
+      "relevance_reason": "Omit a redundant secondary photograph rather than add weakly related filler."
+    }
+  ],
+  "/fr/topics/wills-estates/": [
+    {
+      "asset": "unique-editorial-042.webp",
+      "title": "An open notebook with a pen on top of it",
+      "pool": "editorial",
+      "width": 1536,
+      "height": 1024,
+      "source_page": "https://unsplash.com/photos/an-open-notebook-with-a-pen-on-top-of-it-3qiuE65ky0c",
+      "source_image": "https://images.unsplash.com/photo-1727812100127-c6b16e6176ab",
+      "author": "Amanda Lawrence",
+      "license": "Unsplash License",
+      "license_url": "https://unsplash.com/license",
+      "alt_en": "An open notebook with a pen on top of it",
+      "alt_fr": "Carnet ouvert avec un crayon",
+      "location": "",
+      "method": "Licensed source photograph",
+      "prompt": "",
+      "relevance_reason": "Blank notebook and pen support recording estate-planning instructions."
+    },
+    {
+      "skip": true,
+      "relevance_reason": "Omit a redundant secondary photograph rather than add weakly related filler."
+    }
+  ],
+  "/topics/disputes/": [
+    {
+      "asset": "unique-legal-046.webp",
+      "title": "Empty courtroom with wooden furnishings and a counsel table",
+      "pool": "legal",
+      "width": 1536,
+      "height": 1024,
+      "source_page": "generated:unique-legal-046",
+      "source_image": "/Users/grafov/.codex/generated_images/01a13073-015d-7f32-8578-ade38d5a21c2/exec-10aca5f2-1d5c-43e5-93e0-2345e13a16e6.png",
+      "author": "",
+      "license": "",
+      "license_url": "",
+      "alt_en": "Empty courtroom with wooden furnishings and a counsel table",
+      "alt_fr": "Salle d’audience vide avec du mobilier en bois et une table d’avocat",
+      "location": "",
+      "method": "built-in image_gen",
+      "prompt": "Original photorealistic editorial photograph for a Canadian legal website, landscape1536x1024. An empty modest modern Canadian courtroom viewed straight towards a simple walnut witness stand and adjacent counsel table at right, cream acoustic panels on walls and indirect daylight above, restrained grey and wood colours. The witness stand and preparation table clearly distinct in a balanced composition. No flags, no seal, no judge or people, no American gavel, no text, no logos, no identifiable real building. Believable professional architectural photograph, sober and calm.",
+      "relevance_reason": "Empty courtroom directly supports civil-dispute resolution."
+    },
+    {
+      "skip": true,
+      "relevance_reason": "Omit a redundant secondary photograph rather than add weakly related filler."
+    }
+  ],
+  "/fr/topics/disputes/": [
+    {
+      "asset": "unique-legal-034.webp",
+      "title": "Quiet court waiting room with blue chairs",
+      "pool": "legal",
+      "width": 1536,
+      "height": 1024,
+      "source_page": "generated:unique-legal-034",
+      "source_image": "/Users/grafov/.codex/generated_images/01a13073-015d-7f32-8578-ade38d5a21c2/exec-f1d18f17-910d-48f8-b04f-392dc674f9cb.png",
+      "author": "",
+      "license": "",
+      "license_url": "",
+      "alt_en": "Quiet court waiting room with blue chairs",
+      "alt_fr": "Salle d’attente calme avec des chaises bleues",
+      "location": "",
+      "method": "built-in image_gen",
+      "prompt": "Original photorealistic editorial photograph for a Canadian legal website, landscape1536x1024. A quiet court waiting room: row of comfortable slate blue seats against a light stone wall, large square window showing unfocused leafy trees, small wooden side table with a glass water carafe. Wide diagonal view, late morning natural light, serious but welcoming feeling, true material textures. No people, no words, no logos, no gavel, no identifiable real court. One continuous scene.",
+      "relevance_reason": "Court waiting room directly supports preparation for disputes."
+    },
+    {
+      "skip": true,
+      "relevance_reason": "Omit a redundant secondary photograph rather than add weakly related filler."
+    }
+  ],
+  "/topics/criminal-law/": [
+    {
+      "asset": "criminal-en-hero.webp",
+      "width": 1536,
+      "height": 1024,
+      "source_page": "",
+      "author": "",
+      "license": "",
+      "license_url": "",
+      "source_image": "/Users/grafov/.codex/generated_images/01a13073-015d-7f32-8578-ade38d5a21c2/exec-82dff1cb-1129-4b17-bc1c-165e617badb1.png",
+      "alt_en": "Empty courthouse corridor with tall windows and wooden doors",
+      "alt_fr": "Empty courthouse corridor with tall windows and wooden doors",
+      "prompt": "Use case: photorealistic-natural. Asset type: wide criminal-law webpage hero, 1536x1024. Create an original refined architectural editorial photograph of an empty Canadian-style courthouse corridor: pale limestone walls, tall narrow windows at left, warm walnut courtroom doors at right, sober brass door hardware, beautifully observed natural overcast daylight and long subtle floor reflections. Eye-level perspective, documentary realism, quiet dignity, deep navy and warm stone tonality, no people. Fictional generic interior, not an identifiable real courthouse. No readable text, no seals, no logos, no gavel, no flags, no watermarks. One continuous photographic scene.",
+      "relevance_reason": "Courthouse or legal preparation imagery directly supports criminal-law guidance."
+    },
+    {
+      "asset": "criminal-en-article.webp",
+      "width": 1536,
+      "height": 1024,
+      "source_page": "",
+      "author": "",
+      "license": "",
+      "license_url": "",
+      "source_image": "/Users/grafov/.codex/generated_images/01a13073-015d-7f32-8578-ade38d5a21c2/exec-34a5185f-d742-4c6a-978e-2587ce67199b.png",
+      "alt_en": "Blank notebook, pen and closed folio on a wooden desk",
+      "alt_fr": "Blank notebook, pen and closed folio on a wooden desk",
+      "prompt": "Use case: photorealistic-natural. Asset type: criminal law article editorial photo 1536x1024. Primary request: original close-up photograph of a lawyer's careful preparation of a case timeline, WITHOUT people. At a small dark oak writing desk, an open cream notebook with entirely blank pages, a neatly closed navy document folio, a silver analog desk clock and a black fountain pen. Side view at seated height, library shelves softly blurred far behind, warm restrained late afternoon window light, exceptional real material texture and realistic photographic depth. No words or numbers legible, no screens, no identifiable client documents, no gavel, no scales, no logos, no watermark. Single composed photograph, calm and diligent.",
+      "relevance_reason": "Courthouse or legal preparation imagery directly supports criminal-law guidance."
+    }
+  ],
+  "/fr/topics/criminal-law/": [
+    {
+      "asset": "criminal-fr-hero.webp",
+      "width": 1536,
+      "height": 1024,
+      "source_page": "",
+      "author": "",
+      "license": "",
+      "license_url": "",
+      "source_image": "/Users/grafov/.codex/generated_images/01a13073-015d-7f32-8578-ade38d5a21c2/exec-f7a0bc89-41f2-4e42-b148-1359cc532dcb.png",
+      "alt_en": "Salle d’audience vide avec des bancs en bois",
+      "alt_fr": "Salle d’audience vide avec des bancs en bois",
+      "prompt": "Use case: photorealistic-natural. Asset type: French criminal law webpage hero, wide 1536x1024. Create one original editorial architectural photograph of a dignified generic Canadian courtroom BEFORE proceedings with nobody present. Composition is a low oblique side angle from the public gallery, foreground curved polished maple benches, a distant modest judge's bench, tall frosted windows washing soft morning light across the room, navy upholstered seats and subtle pale walls. Canadian institutional feel, not an American courtroom, no jury present, no flags, no crests, no readable signage, no gavel, no people, no identifiable actual courthouse. Sophisticated natural light photograph with real wood grain and restrained warm neutral colours, crisp professional editorial quality. Single scene, not a collage.",
+      "relevance_reason": "Courthouse or legal preparation imagery directly supports criminal-law guidance."
+    },
+    {
+      "asset": "criminal-fr-article.webp",
+      "width": 1536,
+      "height": 1024,
+      "source_page": "",
+      "author": "",
+      "license": "",
+      "license_url": "",
+      "source_image": "/Users/grafov/.codex/generated_images/01a13073-015d-7f32-8578-ade38d5a21c2/exec-69a2f664-6959-4a9d-b012-be18bd72a6fc.png",
+      "alt_en": "Allée d’une bibliothèque juridique et table de lecture",
+      "alt_fr": "Allée d’une bibliothèque juridique et table de lecture",
+      "prompt": "Use case: photorealistic-natural. Asset type: French criminal law article editorial photograph, 1536x1024. A genuinely original photograph looking diagonally along a quiet Canadian law library aisle: tall dark oak shelves full of varied bound legal volumes with unlettered spines, a single rolling library ladder near right, a small empty reading table in the distance underneath a shaded brass reading lamp, rainy window light reflected on the hardwood floor. The central subject is thoughtful access to legal research and preparation. No people, no readable words, no logos, no watermarks, no gavel, no scales, no client records. Photorealistic documentary architecture, rich texture, elegant deep navy shadows with softly lit amber wood, believable natural perspective. A single unique continuous scene, not a collage.",
+      "relevance_reason": "Courthouse or legal preparation imagery directly supports criminal-law guidance."
+    }
+  ],
+  "/communities/halifax/": [
+    {
+      "asset": "unique-ns-001.webp",
+      "title": "File:Duke Tower.JPG",
+      "pool": "ns",
+      "width": 1536,
+      "height": 1152,
+      "source_page": "https://commons.wikimedia.org/wiki/File:Duke_Tower.JPG",
+      "source_image": "https://upload.wikimedia.org/wikipedia/commons/1/16/Duke_Tower.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "author": "Theyab 07 at English Wikipedia",
+      "license": "Public domain",
+      "license_url": "",
+      "alt_en": "Duke Tower in downtown Halifax",
+      "alt_fr": "Duke Tower au centre-ville de Halifax",
+      "location": "Halifax",
+      "method": "Licensed source photograph",
+      "prompt": "",
+      "relevance_kind": "local-context",
+      "relevance_region": "halifax",
+      "relevance_reason": "Photograph located in the region covered by this guide: Duke Tower in downtown Halifax"
+    },
+    {
+      "asset": "unique-legal-016.webp",
+      "title": "Nova Scotia Court of Appeal building",
+      "pool": "legal",
+      "width": 1536,
+      "height": 1024,
+      "source_page": "https://commons.wikimedia.org/wiki/File:Nova_Scotia_Court_of_Appeal_building.jpg",
+      "source_image": "https://upload.wikimedia.org/wikipedia/commons/e/e4/Nova_Scotia_Court_of_Appeal_building.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "author": "Quintin Soloviev",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0",
+      "alt_en": "Nova Scotia Court of Appeal building in Halifax",
+      "alt_fr": "Édifice de la Cour d’appel de la Nouvelle-Écosse à Halifax",
+      "location": "",
+      "method": "Licensed source photograph",
+      "prompt": "",
+      "relevance_kind": "local-context",
+      "relevance_region": "halifax",
+      "relevance_reason": "Photograph located in the region covered by this guide: Nova Scotia Court of Appeal building in Halifax"
+    }
+  ],
+  "/fr/communities/halifax/": [
+    {
+      "asset": "unique-ns-002.webp",
+      "title": "File:Halifax Pedway.jpg",
+      "pool": "ns",
+      "width": 1536,
+      "height": 1101,
+      "source_page": "https://commons.wikimedia.org/wiki/File:Halifax_Pedway.jpg",
+      "source_image": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Halifax_Pedway.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "author": "A Disappearing Act",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "alt_en": "Downtown Halifax buildings at dusk",
+      "alt_fr": "Immeubles du centre-ville de Halifax au crépuscule",
+      "location": "Halifax",
+      "method": "Licensed source photograph",
+      "prompt": "",
+      "relevance_kind": "local-context",
+      "relevance_region": "halifax",
+      "relevance_reason": "Photograph located in the region covered by this guide: Downtown Halifax buildings at dusk"
+    },
+    {
+      "asset": "unique-legal-014.webp",
+      "title": "Halifax Court House",
+      "pool": "legal",
+      "width": 1152,
+      "height": 1536,
+      "source_page": "https://commons.wikimedia.org/wiki/File:Halifax_Court_House.JPG",
+      "source_image": "https://upload.wikimedia.org/wikipedia/commons/1/16/Halifax_Court_House.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "author": "SimonP at en.wikipedia",
+      "license": "CC BY-SA 3.0",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "alt_en": "Historic courthouse in Halifax, Nova Scotia",
+      "alt_fr": "Palais de justice historique d’Halifax, en Nouvelle-Écosse",
+      "location": "",
+      "method": "Licensed source photograph",
+      "prompt": "",
+      "relevance_kind": "local-context",
+      "relevance_region": "halifax",
+      "relevance_reason": "Photograph located in the region covered by this guide: Historic courthouse in Halifax, Nova Scotia"
+    }
+  ],
+  "/communities/dartmouth/": [
+    {
+      "asset": "unique-ns-018.webp",
+      "title": "File:Dartmouth Boardwalk Scene 2.jpg",
+      "pool": "ns",
+      "width": 1536,
+      "height": 966,
+      "source_page": "https://commons.wikimedia.org/wiki/File:Dartmouth_Boardwalk_Scene_2.jpg",
+      "source_image": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Dartmouth_Boardwalk_Scene_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "author": "Robert Alfers",
+      "license": "Public domain",
+      "license_url": "",
+      "alt_en": "Illuminated shelter along the Dartmouth boardwalk",
+      "alt_fr": "Abri éclairé sur la promenade de Dartmouth",
+      "location": "Dartmouth",
+      "method": "Licensed source photograph",
+      "prompt": "",
+      "relevance_kind": "local-context",
+      "relevance_region": "dartmouth",
+      "relevance_reason": "Photograph located in the region covered by this guide: Illuminated shelter along the Dartmouth boardwalk"
+    },
+    {
+      "asset": "unique-ns-021.webp",
+      "title": "File:HFX Waterfront.jpg",
+      "pool": "ns",
+      "width": 1536,
+      "height": 597,
+      "source_page": "https://commons.wikimedia.org/wiki/File:HFX_Waterfront.jpg",
+      "source_image": "https://upload.wikimedia.org/wikipedia/commons/5/58/HFX_Waterfront.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "author": "Robert Alfers",
+      "license": "Public domain",
+      "license_url": "",
+      "alt_en": "Harbour ferry with the Halifax skyline behind it",
+      "alt_fr": "Traversier devant la silhouette urbaine de Halifax",
+      "location": "Dartmouth",
+      "method": "Licensed source photograph",
+      "prompt": "",
+      "relevance_kind": "local-context",
+      "relevance_region": "dartmouth",
+      "relevance_reason": "Photograph located in the region covered by this guide: Harbour ferry with the Halifax skyline behind it"
+    }
+  ],
+  "/fr/communities/dartmouth/": [
+    {
+      "asset": "unique-ns-020.webp",
+      "title": "File:Ferries in Halifax, Nova Scotia on 2012-07-17 (7643250732).jpg",
+      "pool": "ns",
+      "width": 1536,
+      "height": 1021,
+      "source_page": "https://commons.wikimedia.org/wiki/File:Ferries_in_Halifax,_Nova_Scotia_on_2012-07-17_(7643250732).jpg",
+      "source_image": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Ferries_in_Halifax%2C_Nova_Scotia_on_2012-07-17_%287643250732%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "author": "Nicole Bratt from San Francisco, CA, USA",
+      "license": "CC BY-SA 2.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+      "alt_en": "Ferries and waterfront buildings in Halifax Harbour",
+      "alt_fr": "Traversiers et bâtiments dans le port de Halifax",
+      "location": "Dartmouth",
+      "method": "Licensed source photograph",
+      "prompt": "",
+      "relevance_kind": "local-context",
+      "relevance_region": "dartmouth",
+      "relevance_reason": "Photograph located in the region covered by this guide: Ferries and waterfront buildings in Halifax Harbour"
+    },
+    {
+      "asset": "unique-ns-022.webp",
+      "title": "File:NSCC Waterfront.jpg",
+      "pool": "ns",
+      "width": 1536,
+      "height": 999,
+      "source_page": "https://commons.wikimedia.org/wiki/File:NSCC_Waterfront.jpg",
+      "source_image": "https://upload.wikimedia.org/wikipedia/commons/f/fe/NSCC_Waterfront.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "author": "WayeMason",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "alt_en": "Nova Scotia Community College waterfront campus in Dartmouth",
+      "alt_fr": "Campus riverain du Nova Scotia Community College à Dartmouth",
+      "location": "Dartmouth",
+      "method": "Licensed source photograph",
+      "prompt": "",
+      "relevance_kind": "local-context",
+      "relevance_region": "dartmouth",
+      "relevance_reason": "Photograph located in the region covered by this guide: Nova Scotia Community College waterfront campus in Dartmouth"
+    }
+  ],
+  "/communities/bedford-sackville/": [
+    {
+      "asset": "unique-ns-026.webp",
+      "title": "File:Bedford Basin Waterfront.jpg",
+      "pool": "ns",
+      "width": 1536,
+      "height": 765,
+      "source_page": "https://commons.wikimedia.org/wiki/File:Bedford_Basin_Waterfront.jpg",
+      "source_image": "https://upload.wikimedia.org/wikipedia/commons/4/46/Bedford_Basin_Waterfront.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "author": "Robert Alfers",
+      "license": "Public domain",
+      "license_url": "",
+      "alt_en": "Buildings and tree-lined waterfront beside Bedford Basin",
+      "alt_fr": "Bâtiments et rive boisée du bassin de Bedford",
+      "location": "Bedford",
+      "method": "Licensed source photograph",
+      "prompt": "",
+      "relevance_kind": "local-context",
+      "relevance_region": "bedford-sackville",
+      "relevance_reason": "Photograph located in the region covered by this guide: Buildings and tree-lined waterfront beside Bedford Basin"
+    },
+    {
+      "skip": true,
+      "relevance_reason": "No second photograph is needed to explain the local legal guidance."
+    }
+  ],
+  "/fr/communities/bedford-sackville/": [
+    {
+      "asset": "unique-legal-052.webp",
+      "title": "Bright reference room with bookshelves and a reading desk",
+      "pool": "legal",
+      "width": 1536,
+      "height": 1024,
+      "source_page": "generated:unique-legal-052",
+      "source_image": "/Users/grafov/.codex/generated_images/01a13073-015d-7f32-8578-ade38d5a21c2/exec-c145afb2-bca3-4762-8917-94bac64165b7.png",
+      "author": "",
+      "license": "",
+      "license_url": "",
+      "alt_en": "Bright reference room with bookshelves and a reading desk",
+      "alt_fr": "Salle de documentation lumineuse avec des rayonnages et une table de lecture",
+      "location": "",
+      "method": "built-in image_gen",
+      "prompt": "Original photorealistic editorial photograph for Canadian legal practice website,1536x1024 landscape. A bright legal reference room with pale ash wood bookshelves forming an L-shape, a single round reading desk with a simple white lamp at the centre, clear daylight through an unseen skylight, geometric modern design. Beautiful professional photography, realistic proportions and textures. No people, no readable text, no logos, no watermarks, no gavel, no identifiable client records. Generic fictional scene, not an actual practice office.",
+      "relevance_kind": "legal-preparation",
+      "relevance_region": "bedford-sackville",
+      "relevance_reason": "Neutral consultation, document or court-preparation subject supporting the legal-service page without depicting another town."
+    },
+    {
+      "skip": true,
+      "relevance_reason": "No second photograph is needed to explain the local legal guidance."
+    }
+  ],
+  "/communities/hammonds-plains/": [
+    {
+      "asset": "unique-legal-053.webp",
+      "title": "Fountain pen on blank ivory paper",
+      "pool": "legal",
+      "width": 1536,
+      "height": 1024,
+      "source_page": "generated:unique-legal-053",
+      "source_image": "/Users/grafov/.codex/generated_images/01a13073-015d-7f32-8578-ade38d5a21c2/exec-3180d48c-446b-4f6d-888f-1eb02532c580.png",
+      "author": "",
+      "license": "",
+      "license_url": "",
+      "alt_en": "Fountain pen on blank ivory paper",
+      "alt_fr": "Stylo-plume sur du papier ivoire vierge",
+      "location": "",
+      "method": "built-in image_gen",
+      "prompt": "Original photorealistic editorial photograph for Canadian legal practice website,1536x1024 landscape. Macro still life of a simple black fountain pen resting across a folded sheet of completely blank ivory writing paper on a dark slate tabletop, soft directional light and sharply observed paper grain. Beautiful professional photography, realistic proportions and textures. No people, no readable text, no logos, no watermarks, no gavel, no identifiable client records. Generic fictional scene, not an actual practice office.",
+      "relevance_kind": "legal-preparation",
+      "relevance_region": "hammonds-plains",
+      "relevance_reason": "Neutral consultation, document or court-preparation subject supporting the legal-service page without depicting another town."
+    },
+    {
+      "skip": true,
+      "relevance_reason": "No second photograph is needed to explain the local legal guidance."
+    }
+  ],
+  "/fr/communities/hammonds-plains/": [
+    {
+      "asset": "unique-legal-054.webp",
+      "title": "Courthouse lobby with a timber reception counter",
+      "pool": "legal",
+      "width": 1536,
+      "height": 1024,
+      "source_page": "generated:unique-legal-054",
+      "source_image": "/Users/grafov/.codex/generated_images/01a13073-015d-7f32-8578-ade38d5a21c2/exec-3ba6cb83-b58e-467c-af98-0cb543e7eb92.png",
+      "author": "",
+      "license": "",
+      "license_url": "",
+      "alt_en": "Courthouse lobby with a timber reception counter",
+      "alt_fr": "Hall de palais de justice avec un comptoir d’accueil en bois",
+      "location": "",
+      "method": "built-in image_gen",
+      "prompt": "Original photorealistic editorial photograph for Canadian legal practice website,1536x1024 landscape. The empty entrance lobby of a modest contemporary courthouse, double-height frosted glass panels, dark stone floor and a single long timber reception counter, carefully balanced afternoon light. Beautiful professional photography, realistic proportions and textures. No people, no readable text, no logos, no watermarks, no gavel, no identifiable client records. Generic fictional scene, not an actual practice office.",
+      "relevance_kind": "legal-preparation",
+      "relevance_region": "hammonds-plains",
+      "relevance_reason": "Neutral consultation, document or court-preparation subject supporting the legal-service page without depicting another town."
+    },
+    {
+      "skip": true,
+      "relevance_reason": "No second photograph is needed to explain the local legal guidance."
+    }
+  ],
+  "/communities/cole-harbour-preston/": [
+    {
+      "asset": "unique-ns-028.webp",
+      "title": "File:Eastern Passage, near the Atlantic coast, Nova Scotia (19557705250).jpg",
+      "pool": "ns",
+      "width": 1536,
+      "height": 1152,
+      "source_page": "https://commons.wikimedia.org/wiki/File:Eastern_Passage,_near_the_Atlantic_coast,_Nova_Scotia_(19557705250).jpg",
+      "source_image": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Eastern_Passage%2C_near_the_Atlantic_coast%2C_Nova_Scotia_%2819557705250%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "author": "Ross Dunn",
+      "license": "CC BY-SA 2.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+      "alt_en": "Evening light over a tidal inlet in Eastern Passage",
+      "alt_fr": "Lumière du soir sur une anse à Eastern Passage",
+      "location": "Eastern Passage",
+      "method": "Licensed source photograph",
+      "prompt": "",
+      "relevance_kind": "local-context",
+      "relevance_region": "cole-harbour-preston",
+      "relevance_reason": "Photograph located in the region covered by this guide: Evening light over a tidal inlet in Eastern Passage"
+    },
+    {
+      "skip": true,
+      "relevance_reason": "No second photograph is needed to explain the local legal guidance."
+    }
+  ],
+  "/fr/communities/cole-harbour-preston/": [
+    {
+      "asset": "unique-ns-029.webp",
+      "title": "File:Eastern Passage 2008 1.jpg",
+      "pool": "ns",
+      "width": 1536,
+      "height": 1194,
+      "source_page": "https://commons.wikimedia.org/wiki/File:Eastern_Passage_2008_1.jpg",
+      "source_image": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Eastern_Passage_2008_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "author": "RobNS",
+      "license": "Public domain",
+      "license_url": "",
+      "alt_en": "Restaurant frontage in Eastern Passage",
+      "alt_fr": "Façade d’un restaurant à Eastern Passage",
+      "location": "Eastern Passage",
+      "method": "Licensed source photograph",
+      "prompt": "",
+      "relevance_kind": "local-context",
+      "relevance_region": "cole-harbour-preston",
+      "relevance_reason": "Photograph located in the region covered by this guide: Restaurant frontage in Eastern Passage"
+    },
+    {
+      "skip": true,
+      "relevance_reason": "No second photograph is needed to explain the local legal guidance."
+    }
+  ],
+  "/communities/st-margarets-bay/": [
+    {
+      "asset": "unique-ns-040.webp",
+      "title": "File:Peggys Cove - NS - Leuchtturm bei Sonnenuntergang.jpg",
+      "pool": "ns",
+      "width": 1536,
+      "height": 1028,
+      "source_page": "https://commons.wikimedia.org/wiki/File:Peggys_Cove_-_NS_-_Leuchtturm_bei_Sonnenuntergang.jpg",
+      "source_image": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Peggys_Cove_-_NS_-_Leuchtturm_bei_Sonnenuntergang.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "author": "– Wladyslaw [Disk.]",
+      "license": "CC BY-SA 3.0",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "alt_en": "Peggy’s Cove lighthouse at sunset",
+      "alt_fr": "Phare de Peggy’s Cove au coucher du soleil",
+      "location": "Peggy’s Cove",
+      "method": "Licensed source photograph",
+      "prompt": "",
+      "relevance_kind": "local-context",
+      "relevance_region": "st-margarets-bay",
+      "relevance_reason": "Photograph located in the region covered by this guide: Peggy’s Cove lighthouse at sunset"
+    },
+    {
+      "asset": "unique-ns-034.webp",
+      "title": "File:Peggy's Cove, Nova Scotia, Canada (4).jpg",
+      "pool": "ns",
+      "width": 1536,
+      "height": 1021,
+      "source_page": "https://commons.wikimedia.org/wiki/File:Peggy%27s_Cove,_Nova_Scotia,_Canada_(4).jpg",
+      "source_image": "https://upload.wikimedia.org/wikipedia/commons/5/51/Peggy%27s_Cove%2C_Nova_Scotia%2C_Canada_%284%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "author": "Michael Stokes",
+      "license": "CC BY 2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0",
+      "alt_en": "Fishing harbour and waterfront buildings at Peggy’s Cove",
+      "alt_fr": "Port de pêche et bâtiments au bord de l’eau à Peggy’s Cove",
+      "location": "Peggy’s Cove",
+      "method": "Licensed source photograph",
+      "prompt": "",
+      "relevance_kind": "local-context",
+      "relevance_region": "st-margarets-bay",
+      "relevance_reason": "Photograph located in the region covered by this guide: Fishing harbour and waterfront buildings at Peggy’s Cove"
+    }
+  ],
+  "/fr/communities/st-margarets-bay/": [
+    {
+      "asset": "unique-ns-038.webp",
+      "title": "File:Peggy's Cove 3958.jpg",
+      "pool": "ns",
+      "width": 1536,
+      "height": 1097,
+      "source_page": "https://commons.wikimedia.org/wiki/File:Peggy%27s_Cove_3958.jpg",
+      "source_image": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Peggy%27s_Cove_3958.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "author": "Dionysos1970",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "alt_en": "Red boathouse beside the water at Peggy’s Cove",
+      "alt_fr": "Hangar à bateaux rouge au bord de l’eau à Peggy’s Cove",
+      "location": "Peggy’s Cove",
+      "method": "Licensed source photograph",
+      "prompt": "",
+      "relevance_kind": "local-context",
+      "relevance_region": "st-margarets-bay",
+      "relevance_reason": "Photograph located in the region covered by this guide: Red boathouse beside the water at Peggy’s Cove"
+    },
+    {
+      "asset": "unique-ns-037.webp",
+      "title": "File:Peggy's Cove 3948.jpg",
+      "pool": "ns",
+      "width": 1536,
+      "height": 1024,
+      "source_page": "https://commons.wikimedia.org/wiki/File:Peggy%27s_Cove_3948.jpg",
+      "source_image": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Peggy%27s_Cove_3948.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "author": "Dionysos1970",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "alt_en": "Colourful homes and a fishing boat at Peggy’s Cove",
+      "alt_fr": "Maisons colorées et bateau de pêche à Peggy’s Cove",
+      "location": "Peggy’s Cove",
+      "method": "Licensed source photograph",
+      "prompt": "",
+      "relevance_kind": "local-context",
+      "relevance_region": "st-margarets-bay",
+      "relevance_reason": "Photograph located in the region covered by this guide: Colourful homes and a fishing boat at Peggy’s Cove"
+    }
+  ],
+  "/communities/prospect-sambro/": [
+    {
+      "asset": "unique-legal-055.webp",
+      "title": "Microphone beside a wooden courtroom stand",
+      "pool": "legal",
+      "width": 1536,
+      "height": 1024,
+      "source_page": "generated:unique-legal-055",
+      "source_image": "/Users/grafov/.codex/generated_images/01a13073-015d-7f32-8578-ade38d5a21c2/exec-0d0cbaf1-e4b7-490a-919b-d0731abf4f6e.png",
+      "author": "",
+      "license": "",
+      "license_url": "",
+      "alt_en": "Microphone beside a wooden courtroom stand",
+      "alt_fr": "Microphone près d’une tribune en bois dans une salle d’audience",
+      "location": "",
+      "method": "built-in image_gen",
+      "prompt": "Original photorealistic editorial photograph for Canadian legal practice website,1536x1024 landscape. Detail of a wooden witness stand beside a small silver gooseneck microphone, empty courtroom in distant soft focus, eye level view with calm daylight across maple wood grain. Beautiful professional photography, realistic proportions and textures. No people, no readable text, no logos, no watermarks, no gavel, no identifiable client records. Generic fictional scene, not an actual practice office.",
+      "relevance_kind": "legal-preparation",
+      "relevance_region": "prospect-sambro",
+      "relevance_reason": "Neutral consultation, document or court-preparation subject supporting the legal-service page without depicting another town."
+    },
+    {
+      "skip": true,
+      "relevance_reason": "No second photograph is needed to explain the local legal guidance."
+    }
+  ],
+  "/fr/communities/prospect-sambro/": [
+    {
+      "asset": "unique-legal-056.webp",
+      "title": "Organized index cards and a pencil on a desk",
+      "pool": "legal",
+      "width": 1536,
+      "height": 1024,
+      "source_page": "generated:unique-legal-056",
+      "source_image": "/Users/grafov/.codex/generated_images/01a13073-015d-7f32-8578-ade38d5a21c2/exec-4cd5f2d1-c827-40ac-a921-62b5f02e3425.png",
+      "author": "",
+      "license": "",
+      "license_url": "",
+      "alt_en": "Organized index cards and a pencil on a desk",
+      "alt_fr": "Fiches classées et crayon sur un bureau",
+      "location": "",
+      "method": "built-in image_gen",
+      "prompt": "Original photorealistic editorial photograph for Canadian legal practice website,1536x1024 landscape. A small box of neatly sorted blank index cards with simple unlettered coloured dividers, on a grey wool desk mat beside a short pencil and polished paperweight. Focus on orderly preparation, elevated close-up still life. Beautiful professional photography, realistic proportions and textures. No people, no readable text, no logos, no watermarks, no gavel, no identifiable client records. Generic fictional scene, not an actual practice office.",
+      "relevance_kind": "legal-preparation",
+      "relevance_region": "prospect-sambro",
+      "relevance_reason": "Neutral consultation, document or court-preparation subject supporting the legal-service page without depicting another town."
+    },
+    {
+      "skip": true,
+      "relevance_reason": "No second photograph is needed to explain the local legal guidance."
+    }
+  ],
+  "/communities/eastern-shore/": [
+    {
+      "asset": "unique-legal-057.webp",
+      "title": "Consultation room with a glass table and burgundy chairs",
+      "pool": "legal",
+      "width": 1536,
+      "height": 1024,
+      "source_page": "generated:unique-legal-057",
+      "source_image": "/Users/grafov/.codex/generated_images/01a13073-015d-7f32-8578-ade38d5a21c2/exec-c64761b9-bbff-49f4-b979-770f25d9b7d4.png",
+      "author": "",
+      "license": "",
+      "license_url": "",
+      "alt_en": "Consultation room with a glass table and burgundy chairs",
+      "alt_fr": "Salle de consultation avec une table en verre et des chaises bordeaux",
+      "location": "",
+      "method": "built-in image_gen",
+      "prompt": "Original photorealistic editorial photograph for Canadian legal practice website,1536x1024 landscape. An empty narrow consultation room with an oval glass table and three soft burgundy chairs, a linen curtain catching cool morning light, simple clean contemporary Canadian interior design. Beautiful professional photography, realistic proportions and textures. No people, no readable text, no logos, no watermarks, no gavel, no identifiable client records. Generic fictional scene, not an actual practice office.",
+      "relevance_kind": "legal-preparation",
+      "relevance_region": "eastern-shore",
+      "relevance_reason": "Neutral consultation, document or court-preparation subject supporting the legal-service page without depicting another town."
+    },
+    {
+      "skip": true,
+      "relevance_reason": "No second photograph is needed to explain the local legal guidance."
+    }
+  ],
+  "/fr/communities/eastern-shore/": [
+    {
+      "asset": "unique-legal-059.webp",
+      "title": "Granite courthouse steps leading to bronze doors",
+      "pool": "legal",
+      "width": 1536,
+      "height": 1024,
+      "source_page": "generated:unique-legal-059",
+      "source_image": "/Users/grafov/.codex/generated_images/01a13073-015d-7f32-8578-ade38d5a21c2/exec-3136340c-ef25-4314-acbb-98872b92f90f.png",
+      "author": "",
+      "license": "",
+      "license_url": "",
+      "alt_en": "Granite courthouse steps leading to bronze doors",
+      "alt_fr": "Marches en granit menant aux portes en bronze d’un palais de justice",
+      "location": "",
+      "method": "built-in image_gen",
+      "prompt": "Original photorealistic editorial photograph for Canadian legal practice website,1536x1024 landscape. Courthouse exterior architectural detail of a broad granite stairway ascending towards closed dark bronze double doors, no handle closeup; rain has left the steps slightly reflective, subdued early morning atmosphere. Beautiful professional photography, realistic proportions and textures. No people, no readable text, no logos, no watermarks, no gavel, no identifiable client records. Generic fictional scene, not an actual practice office.",
+      "relevance_kind": "legal-preparation",
+      "relevance_region": "eastern-shore",
+      "relevance_reason": "Neutral consultation, document or court-preparation subject supporting the legal-service page without depicting another town."
+    },
+    {
+      "skip": true,
+      "relevance_reason": "No second photograph is needed to explain the local legal guidance."
+    }
+  ],
+  "/communities/musquodoboit-valley/": [
+    {
+      "asset": "unique-legal-060.webp",
+      "title": "Wooden public gallery bench in an empty courtroom",
+      "pool": "legal",
+      "width": 1536,
+      "height": 1024,
+      "source_page": "generated:unique-legal-060",
+      "source_image": "/Users/grafov/.codex/generated_images/01a13073-015d-7f32-8578-ade38d5a21c2/exec-b1e0ab2c-5d7f-4d02-b620-63dcee762a38.png",
+      "author": "",
+      "license": "",
+      "license_url": "",
+      "alt_en": "Wooden public gallery bench in an empty courtroom",
+      "alt_fr": "Banc en bois du public dans une salle d’audience vide",
+      "location": "",
+      "method": "built-in image_gen",
+      "prompt": "Original photorealistic editorial photograph for Canadian legal practice website,1536x1024 landscape. An unoccupied wooden public gallery bench in a bright courtroom viewed from very close alongside the seat, long elegant diagonal lines leading towards a softly blurred pale interior, morning sun tracing subtle shadows. Beautiful professional photography, realistic proportions and textures. No people, no readable text, no logos, no watermarks, no gavel, no identifiable client records. Generic fictional scene, not an actual practice office.",
+      "relevance_kind": "legal-preparation",
+      "relevance_region": "musquodoboit-valley",
+      "relevance_reason": "Neutral consultation, document or court-preparation subject supporting the legal-service page without depicting another town."
+    },
+    {
+      "skip": true,
+      "relevance_reason": "No second photograph is needed to explain the local legal guidance."
+    }
+  ],
+  "/fr/communities/musquodoboit-valley/": [
+    {
+      "asset": "unique-legal-062.webp",
+      "title": "Brass balance scale beside a closed book",
+      "pool": "legal",
+      "width": 1536,
+      "height": 1024,
+      "source_page": "generated:unique-legal-062",
+      "source_image": "/Users/grafov/.codex/generated_images/01a13073-015d-7f32-8578-ade38d5a21c2/exec-d333e20a-457f-4b34-a723-d9eb67f8c14b.png",
+      "author": "",
+      "license": "",
+      "license_url": "",
+      "alt_en": "Brass balance scale beside a closed book",
+      "alt_fr": "Balance en laiton à côté d’un livre fermé",
+      "location": "",
+      "method": "built-in image_gen",
+      "prompt": "Original photorealistic editorial photograph for Canadian legal practice website,1536x1024 landscape. An antique brass balance scale as a small understated object on a modern dark stone shelf beside a single closed plain ivory book, dramatically soft side light, clean asymmetric close composition, no courtroom cliché gavel. Beautiful professional photography, realistic proportions and textures. No people, no readable text, no logos, no watermarks, no gavel, no identifiable client records. Generic fictional scene, not an actual practice office.",
+      "relevance_kind": "legal-preparation",
+      "relevance_region": "musquodoboit-valley",
+      "relevance_reason": "Neutral consultation, document or court-preparation subject supporting the legal-service page without depicting another town."
+    },
+    {
+      "skip": true,
+      "relevance_reason": "No second photograph is needed to explain the local legal guidance."
+    }
+  ],
+  "/communities/east-hants/": [
+    {
+      "asset": "unique-legal-026.webp",
+      "title": "Folders, notebook and reading glasses on a table",
+      "pool": "legal",
+      "width": 1536,
+      "height": 1024,
+      "source_page": "generated:unique-legal-026",
+      "source_image": "/Users/grafov/.codex/generated_images/01a13073-015d-7f32-8578-ade38d5a21c2/exec-5d7add70-db79-48e9-a978-0815391fa444.png",
+      "author": "",
+      "license": "",
+      "license_url": "",
+      "alt_en": "Folders, notebook and reading glasses on a table",
+      "alt_fr": "Dossiers, carnet et lunettes de lecture sur une table",
+      "location": "",
+      "method": "built-in image_gen",
+      "prompt": "Original photorealistic editorial image for a Canadian legal website, landscape1536x1024. A tidy legal research workspace seen directly from above: cream file folders closed and aligned on a pale oak table, a pair of thin metal reading glasses, a black pen, a small unlabelled notebook, and a plain ceramic cup in one corner. Beautiful indirect daylight, realistic materials, restrained palette. No people, no legible text, no client records, no logos or watermark. One continuous photograph, not collage.",
+      "relevance_kind": "legal-preparation",
+      "relevance_region": "east-hants",
+      "relevance_reason": "Neutral consultation, document or court-preparation subject supporting the legal-service page without depicting another town."
+    },
+    {
+      "skip": true,
+      "relevance_reason": "No second photograph is needed to explain the local legal guidance."
+    }
+  ],
+  "/fr/communities/east-hants/": [
+    {
+      "asset": "unique-legal-065.webp",
+      "title": "Open blank notebook with a red bookmark",
+      "pool": "legal",
+      "width": 1536,
+      "height": 1024,
+      "source_page": "generated:unique-legal-065",
+      "source_image": "/Users/grafov/.codex/generated_images/01a13073-015d-7f32-8578-ade38d5a21c2/exec-11ce1268-2db4-4767-98af-6436c7015b55.png",
+      "author": "",
+      "license": "",
+      "license_url": "",
+      "alt_en": "Open blank notebook with a red bookmark",
+      "alt_fr": "Carnet ouvert aux pages vierges avec un marque-page rouge",
+      "location": "",
+      "method": "built-in image_gen",
+      "prompt": "Original photorealistic editorial photograph for Canadian legal practice website,1536x1024 landscape. Close-up of an open empty cream notebook with a red fabric bookmark between the pages, placed on navy linen with a small silver binder clip near the lower edge, beautiful paper texture in natural daylight. Beautiful professional photography, realistic proportions and textures. No people, no readable text, no logos, no watermarks, no gavel, no identifiable client records. Generic fictional scene, not an actual practice office.",
+      "relevance_kind": "legal-preparation",
+      "relevance_region": "east-hants",
+      "relevance_reason": "Neutral consultation, document or court-preparation subject supporting the legal-service page without depicting another town."
+    },
+    {
+      "skip": true,
+      "relevance_reason": "No second photograph is needed to explain the local legal guidance."
+    }
+  ],
+  "/communities/truro-colchester/": [
+    {
+      "asset": "unique-ns-105.webp",
+      "title": "File:Aerial view of Truro, Nova Scotia.jpg",
+      "pool": "ns",
+      "width": 1536,
+      "height": 969,
+      "source_page": "https://commons.wikimedia.org/wiki/File:Aerial_view_of_Truro,_Nova_Scotia.jpg",
+      "source_image": "https://upload.wikimedia.org/wikipedia/commons/c/c0/Aerial_view_of_Truro%2C_Nova_Scotia.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "author": "Quintin Soloviev",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0",
+      "alt_en": "Aerial view of downtown Truro",
+      "alt_fr": "Vue aérienne du centre-ville de Truro",
+      "location": "Truro",
+      "method": "Licensed source photograph",
+      "prompt": "",
+      "relevance_kind": "local-context",
+      "relevance_region": "truro-colchester",
+      "relevance_reason": "Photograph located in the region covered by this guide: Aerial view of downtown Truro"
+    },
+    {
+      "asset": "unique-ns-107.webp",
+      "title": "File:Stanfield's textile mill in Truro, NS.jpg",
+      "pool": "ns",
+      "width": 1536,
+      "height": 1075,
+      "source_page": "https://commons.wikimedia.org/wiki/File:Stanfield%27s_textile_mill_in_Truro,_NS.jpg",
+      "source_image": "https://upload.wikimedia.org/wikipedia/commons/b/b0/Stanfield%27s_textile_mill_in_Truro%2C_NS.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "author": "Quintin Soloviev",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0",
+      "alt_en": "Aerial view of Stanfield’s textile mill in Truro",
+      "alt_fr": "Vue aérienne de l’usine textile Stanfield’s à Truro",
+      "location": "Truro",
+      "method": "Licensed source photograph",
+      "prompt": "",
+      "relevance_kind": "local-context",
+      "relevance_region": "truro-colchester",
+      "relevance_reason": "Photograph located in the region covered by this guide: Aerial view of Stanfield’s textile mill in Truro"
+    }
+  ],
+  "/fr/communities/truro-colchester/": [
+    {
+      "asset": "unique-ns-106.webp",
+      "title": "File:Kiwanis Park, Truro by Keyanv3.jpg",
+      "pool": "ns",
+      "width": 1536,
+      "height": 1152,
+      "source_page": "https://commons.wikimedia.org/wiki/File:Kiwanis_Park,_Truro_by_Keyanv3.jpg",
+      "source_image": "https://upload.wikimedia.org/wikipedia/commons/e/e5/Kiwanis_Park%2C_Truro_by_Keyanv3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "author": "Keyanv3onIG",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "alt_en": "Pond and grassy shoreline in Kiwanis Park, Truro",
+      "alt_fr": "Étang et rive herbeuse au parc Kiwanis de Truro",
+      "location": "Truro",
+      "method": "Licensed source photograph",
+      "prompt": "",
+      "relevance_kind": "local-context",
+      "relevance_region": "truro-colchester",
+      "relevance_reason": "Photograph located in the region covered by this guide: Pond and grassy shoreline in Kiwanis Park, Truro"
+    },
+    {
+      "asset": "unique-ns-109.webp",
+      "title": "File:Truro, Nova Scotia, Canada.jpg",
+      "pool": "ns",
+      "width": 1536,
+      "height": 983,
+      "source_page": "https://commons.wikimedia.org/wiki/File:Truro,_Nova_Scotia,_Canada.jpg",
+      "source_image": "https://upload.wikimedia.org/wikipedia/commons/7/70/Truro%2C_Nova_Scotia%2C_Canada.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "author": "Quintin Soloviev",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0",
+      "alt_en": "Truro streets and railway viewed from above",
+      "alt_fr": "Rues et voie ferrée de Truro vues d’en haut",
+      "location": "Truro",
+      "method": "Licensed source photograph",
+      "prompt": "",
+      "relevance_kind": "local-context",
+      "relevance_region": "truro-colchester",
+      "relevance_reason": "Photograph located in the region covered by this guide: Truro streets and railway viewed from above"
+    }
+  ],
+  "/communities/west-hants/": [
+    {
+      "asset": "unique-legal-067.webp",
+      "title": "Magnifying glass and paper tabs on blank paper",
+      "pool": "legal",
+      "width": 1536,
+      "height": 1024,
+      "source_page": "generated:unique-legal-067",
+      "source_image": "/Users/grafov/.codex/generated_images/01a13073-015d-7f32-8578-ade38d5a21c2/exec-109cfc79-a92b-45a2-b099-58848db92b3b.png",
+      "author": "",
+      "license": "",
+      "license_url": "",
+      "alt_en": "Magnifying glass and paper tabs on blank paper",
+      "alt_fr": "Loupe et onglets colorés sur une feuille vierge",
+      "location": "",
+      "method": "built-in image_gen",
+      "prompt": "Original photorealistic editorial photograph for Canadian legal practice website,1536x1024 landscape. A round magnifying glass resting on completely blank off-white legal-size paper beside three coloured paper tabs, warm wooden tabletop, overhead macro perspective with crisp beautiful shadows. Beautiful professional photography, realistic proportions and textures. No people, no readable text, no logos, no watermarks, no gavel, no identifiable client records. Generic fictional scene, not an actual practice office.",
+      "relevance_kind": "legal-preparation",
+      "relevance_region": "west-hants",
+      "relevance_reason": "Neutral consultation, document or court-preparation subject supporting the legal-service page without depicting another town."
+    },
+    {
+      "skip": true,
+      "relevance_reason": "No second photograph is needed to explain the local legal guidance."
+    }
+  ],
+  "/fr/communities/west-hants/": [
+    {
+      "asset": "unique-editorial-026.webp",
+      "title": "an empty modern office with a desk and window",
+      "pool": "editorial",
+      "width": 1536,
+      "height": 989,
+      "source_page": "https://unsplash.com/photos/an-empty-modern-office-with-a-desk-and-window-K9DZz7B8sCU",
+      "source_image": "https://images.unsplash.com/photo-1746021535490-cd4d7fe7ab2a",
+      "author": "Deliberate Directions",
+      "license": "Unsplash License",
+      "license_url": "https://unsplash.com/license",
+      "alt_en": "An empty modern office with a desk and window",
+      "alt_fr": "Bureau lumineux avec fenêtre",
+      "location": "",
+      "method": "Licensed source photograph",
+      "prompt": "",
+      "relevance_kind": "legal-preparation",
+      "relevance_region": "west-hants",
+      "relevance_reason": "Neutral consultation, document or court-preparation subject supporting the legal-service page without depicting another town."
+    },
+    {
+      "skip": true,
+      "relevance_reason": "No second photograph is needed to explain the local legal guidance."
+    }
+  ],
+  "/communities/chester-south-shore/": [
+    {
+      "asset": "unique-legal-073.webp",
+      "title": "Notebook and envelopes in an organized desk drawer",
+      "pool": "legal",
+      "width": 1536,
+      "height": 1024,
+      "source_page": "generated:unique-legal-073",
+      "source_image": "/Users/grafov/.codex/generated_images/01a13073-015d-7f32-8578-ade38d5a21c2/exec-e5d2be2a-ab1c-4fd9-9a8a-c92fc2f6d484.png",
+      "author": "",
+      "license": "",
+      "license_url": "",
+      "alt_en": "Notebook and envelopes in an organized desk drawer",
+      "alt_fr": "Carnet et enveloppes dans un tiroir de bureau bien rangé",
+      "location": "",
+      "method": "built-in image_gen",
+      "prompt": "Original photorealistic editorial photograph for Canadian legal practice website,1536x1024 landscape. An open shallow desk drawer holding one blank notebook, a pencil ruler and several neatly aligned envelopes, warm ash wood against an out-of-focus modern desk, professional neatness and real material texture. Beautiful professional photography, realistic proportions and textures. No people, no readable text, no logos, no watermarks, no gavel, no identifiable client records. Generic fictional scene, not an actual practice office.",
+      "relevance_kind": "legal-preparation",
+      "relevance_region": "chester-south-shore",
+      "relevance_reason": "Neutral consultation, document or court-preparation subject supporting the legal-service page without depicting another town."
+    },
+    {
+      "skip": true,
+      "relevance_reason": "No second photograph is needed to explain the local legal guidance."
+    }
+  ],
+  "/fr/communities/chester-south-shore/": [
+    {
+      "asset": "unique-editorial-022.webp",
+      "title": "a notebook with a pen on top of it",
+      "pool": "editorial",
+      "width": 1536,
+      "height": 1025,
+      "source_page": "https://unsplash.com/photos/a-notebook-with-a-pen-on-top-of-it-wd1OIMXNQYg",
+      "source_image": "https://images.unsplash.com/photo-1672338335611-006fb5b60479",
+      "author": "Daniel Haaf",
+      "license": "Unsplash License",
+      "license_url": "https://unsplash.com/license",
+      "alt_en": "A notebook with a pen on top of it",
+      "alt_fr": "Stylos sur un carnet",
+      "location": "",
+      "method": "Licensed source photograph",
+      "prompt": "",
+      "relevance_kind": "legal-preparation",
+      "relevance_region": "chester-south-shore",
+      "relevance_reason": "Neutral consultation, document or court-preparation subject supporting the legal-service page without depicting another town."
+    },
+    {
+      "skip": true,
+      "relevance_reason": "No second photograph is needed to explain the local legal guidance."
+    }
+  ],
+  "/communities/kings-valley/": [
+    {
+      "asset": "unique-ns-048.webp",
+      "title": "File:Wolfville (252404831).jpg",
+      "pool": "ns",
+      "width": 1536,
+      "height": 1149,
+      "source_page": "https://commons.wikimedia.org/wiki/File:Wolfville_(252404831).jpg",
+      "source_image": "https://upload.wikimedia.org/wikipedia/commons/7/7a/Wolfville_%28252404831%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "author": "Wendy Schotsmans from Dessel, Belgium",
+      "license": "CC BY 2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0",
+      "alt_en": "Farmland and countryside near Wolfville",
+      "alt_fr": "Champs et campagne près de Wolfville",
+      "location": "Wolfville",
+      "method": "Licensed source photograph",
+      "prompt": "",
+      "relevance_kind": "local-context",
+      "relevance_region": "kings-valley",
+      "relevance_reason": "Photograph located in the region covered by this guide: Farmland and countryside near Wolfville"
+    },
+    {
+      "asset": "unique-legal-015.webp",
+      "title": "KingsCountyMuseumcourroom",
+      "pool": "legal",
+      "width": 640,
+      "height": 480,
+      "source_page": "https://commons.wikimedia.org/wiki/File:KingsCountyMuseumcourroom.JPG",
+      "source_image": "https://upload.wikimedia.org/wikipedia/commons/1/1c/KingsCountyMuseumcourroom.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "author": "Dan Conlin",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+      "alt_en": "Historic courtroom at Kings County Museum in Nova Scotia",
+      "alt_fr": "Salle d’audience historique du musée du comté de Kings, en Nouvelle-Écosse",
+      "location": "",
+      "method": "Licensed source photograph",
+      "prompt": "",
+      "relevance_kind": "local-context",
+      "relevance_region": "kings-valley",
+      "relevance_reason": "Photograph located in the region covered by this guide: Historic courtroom at Kings County Museum in Nova Scotia"
+    }
+  ],
+  "/fr/communities/kings-valley/": [
+    {
+      "asset": "unique-ns-046.webp",
+      "title": "File:Downtown Wolfville Nova Scotia (51736321345).jpg",
+      "pool": "ns",
+      "width": 1536,
+      "height": 1024,
+      "source_page": "https://commons.wikimedia.org/wiki/File:Downtown_Wolfville_Nova_Scotia_(51736321345).jpg",
+      "source_image": "https://upload.wikimedia.org/wikipedia/commons/7/74/Downtown_Wolfville_Nova_Scotia_%2851736321345%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "author": "chester902",
+      "license": "Public domain",
+      "license_url": "",
+      "alt_en": "Illuminated doorway in downtown Wolfville",
+      "alt_fr": "Entrée éclairée au centre-ville de Wolfville",
+      "location": "Wolfville",
+      "method": "Licensed source photograph",
+      "prompt": "",
+      "relevance_kind": "local-context",
+      "relevance_region": "kings-valley",
+      "relevance_reason": "Photograph located in the region covered by this guide: Illuminated doorway in downtown Wolfville"
+    },
+    {
+      "skip": true,
+      "relevance_reason": "No second photograph is needed to explain the local legal guidance."
+    }
+  ],
+  "/communities/annapolis/": [
+    {
+      "asset": "unique-ns-042.webp",
+      "title": "File:Fort Anne National Historic Site.jpg",
+      "pool": "ns",
+      "width": 1536,
+      "height": 1152,
+      "source_page": "https://commons.wikimedia.org/wiki/File:Fort_Anne_National_Historic_Site.jpg",
+      "source_image": "https://upload.wikimedia.org/wikipedia/commons/0/0a/Fort_Anne_National_Historic_Site.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "author": "WayeMason & John Van Gurp",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "alt_en": "Aerial view of Fort Anne in Annapolis Royal",
+      "alt_fr": "Vue aérienne du fort Anne à Annapolis Royal",
+      "location": "Annapolis Royal",
+      "method": "Licensed source photograph",
+      "prompt": "",
+      "relevance_kind": "local-context",
+      "relevance_region": "annapolis",
+      "relevance_reason": "Photograph located in the region covered by this guide: Aerial view of Fort Anne in Annapolis Royal"
+    },
+    {
+      "asset": "unique-legal-012.webp",
+      "title": "Annapolis County Courthouse",
+      "pool": "legal",
+      "width": 1536,
+      "height": 1152,
+      "source_page": "https://commons.wikimedia.org/wiki/File:Annapolis_County_Courthouse.jpg",
+      "source_image": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Annapolis_County_Courthouse.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "author": "Fralambert",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "alt_en": "Annapolis County courthouse in Nova Scotia",
+      "alt_fr": "Palais de justice du comté d’Annapolis, en Nouvelle-Écosse",
+      "location": "",
+      "method": "Licensed source photograph",
+      "prompt": "",
+      "relevance_kind": "local-context",
+      "relevance_region": "annapolis",
+      "relevance_reason": "Photograph located in the region covered by this guide: Annapolis County courthouse in Nova Scotia"
+    }
+  ],
+  "/fr/communities/annapolis/": [
+    {
+      "asset": "unique-ns-043.webp",
+      "title": "File:Waterfront of Annapolis Royal, NS looking at down.jpg",
+      "pool": "ns",
+      "width": 1536,
+      "height": 1152,
+      "source_page": "https://commons.wikimedia.org/wiki/File:Waterfront_of_Annapolis_Royal,_NS_looking_at_down.jpg",
+      "source_image": "https://upload.wikimedia.org/wikipedia/commons/f/f8/Waterfront_of_Annapolis_Royal%2C_NS_looking_at_down.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "author": "WayeMason & John Van Gurp",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "alt_en": "Aerial view of downtown Annapolis Royal",
+      "alt_fr": "Vue aérienne du centre-ville d’Annapolis Royal",
+      "location": "Annapolis Royal",
+      "method": "Licensed source photograph",
+      "prompt": "",
+      "relevance_kind": "local-context",
+      "relevance_region": "annapolis",
+      "relevance_reason": "Photograph located in the region covered by this guide: Aerial view of downtown Annapolis Royal"
+    },
+    {
+      "asset": "unique-ns-045.webp",
+      "title": "File:Waterfront of Annapolis Royal, NS looking south.jpg",
+      "pool": "ns",
+      "width": 1536,
+      "height": 1152,
+      "source_page": "https://commons.wikimedia.org/wiki/File:Waterfront_of_Annapolis_Royal,_NS_looking_south.jpg",
+      "source_image": "https://upload.wikimedia.org/wikipedia/commons/a/a0/Waterfront_of_Annapolis_Royal%2C_NS_looking_south.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "author": "WayeMason & John Van Gurp",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "alt_en": "Homes along the Annapolis Royal waterfront",
+      "alt_fr": "Maisons au bord de l’eau à Annapolis Royal",
+      "location": "Annapolis Royal",
+      "method": "Licensed source photograph",
+      "prompt": "",
+      "relevance_kind": "local-context",
+      "relevance_region": "annapolis",
+      "relevance_reason": "Photograph located in the region covered by this guide: Homes along the Annapolis Royal waterfront"
+    }
+  ],
+  "/communities/digby-clare/": [
+    {
+      "asset": "unique-ns-025.webp",
+      "title": "File:Nova Scotia DGJ 7680 - Part of the Digby Fishing Fleet (4859974975).jpg",
+      "pool": "ns",
+      "width": 1536,
+      "height": 1035,
+      "source_page": "https://commons.wikimedia.org/wiki/File:Nova_Scotia_DGJ_7680_-_Part_of_the_Digby_Fishing_Fleet_(4859974975).jpg",
+      "source_image": "https://upload.wikimedia.org/wikipedia/commons/5/57/Nova_Scotia_DGJ_7680_-_Part_of_the_Digby_Fishing_Fleet_%284859974975%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "author": "Dennis G. Jarvis",
+      "license": "CC BY-SA 2.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+      "alt_en": "Fishing fleet reflected in Digby harbour",
+      "alt_fr": "Reflets de bateaux de pêche dans le port de Digby",
+      "location": "Digby",
+      "method": "Licensed source photograph",
+      "prompt": "",
+      "relevance_kind": "local-context",
+      "relevance_region": "digby-clare",
+      "relevance_reason": "Photograph located in the region covered by this guide: Fishing fleet reflected in Digby harbour"
+    },
+    {
+      "skip": true,
+      "relevance_reason": "No second photograph is needed to explain the local legal guidance."
+    }
+  ],
+  "/fr/communities/digby-clare/": [
+    {
+      "asset": "unique-editorial-040.webp",
+      "title": "pen on white lined paper selective focus photography",
+      "pool": "editorial",
+      "width": 1536,
+      "height": 1153,
+      "source_page": "https://unsplash.com/photos/pen-on-white-lined-paper-selective-focus-photography-CKlHKtCJZKk",
+      "source_image": "https://images.unsplash.com/photo-1462642109801-4ac2971a3a51",
+      "author": "Aaron Burden",
+      "license": "Unsplash License",
+      "license_url": "https://unsplash.com/license",
+      "alt_en": "Pen on white lined paper selective focus photography",
+      "alt_fr": "Stylo-plume sur un journal ouvert",
+      "location": "",
+      "method": "Licensed source photograph",
+      "prompt": "",
+      "relevance_kind": "legal-preparation",
+      "relevance_region": "digby-clare",
+      "relevance_reason": "Neutral consultation, document or court-preparation subject supporting the legal-service page without depicting another town."
+    },
+    {
+      "skip": true,
+      "relevance_reason": "No second photograph is needed to explain the local legal guidance."
+    }
+  ],
+  "/communities/yarmouth-argyle/": [
+    {
+      "asset": "unique-ns-078.webp",
+      "title": "File:The Salt Pond at the northwestern end of Yarmouth harbour.jpg",
+      "pool": "ns",
+      "width": 1536,
+      "height": 1152,
+      "source_page": "https://commons.wikimedia.org/wiki/File:The_Salt_Pond_at_the_northwestern_end_of_Yarmouth_harbour.jpg",
+      "source_image": "https://upload.wikimedia.org/wikipedia/commons/3/30/The_Salt_Pond_at_the_northwestern_end_of_Yarmouth_harbour.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "author": "Wreck Smurfy",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+      "alt_en": "Tidal channel at Yarmouth harbour",
+      "alt_fr": "Chenal de marée dans le port de Yarmouth",
+      "location": "Yarmouth",
+      "method": "Licensed source photograph",
+      "prompt": "",
+      "relevance_kind": "local-context",
+      "relevance_region": "yarmouth-argyle",
+      "relevance_reason": "Photograph located in the region covered by this guide: Tidal channel at Yarmouth harbour"
+    },
+    {
+      "asset": "unique-legal-013.webp",
+      "title": "Argyle County Court House and Gaol 01",
+      "pool": "legal",
+      "width": 1536,
+      "height": 1152,
+      "source_page": "https://commons.wikimedia.org/wiki/File:Argyle_County_Court_House_and_Gaol_01.jpg",
+      "source_image": "https://upload.wikimedia.org/wikipedia/commons/0/04/Argyle_County_Court_House_and_Gaol_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "author": "Fralambert",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "alt_en": "Historic Argyle courthouse in Nova Scotia",
+      "alt_fr": "Palais de justice historique d’Argyle, en Nouvelle-Écosse",
+      "location": "",
+      "method": "Licensed source photograph",
+      "prompt": "",
+      "relevance_kind": "local-context",
+      "relevance_region": "yarmouth-argyle",
+      "relevance_reason": "Photograph located in the region covered by this guide: Historic Argyle courthouse in Nova Scotia"
+    }
+  ],
+  "/fr/communities/yarmouth-argyle/": [
+    {
+      "asset": "unique-ns-079.webp",
+      "title": "File:YarmouthNS Town Hall.jpg",
+      "pool": "ns",
+      "width": 1536,
+      "height": 972,
+      "source_page": "https://commons.wikimedia.org/wiki/File:YarmouthNS_Town_Hall.jpg",
+      "source_image": "https://upload.wikimedia.org/wikipedia/commons/a/a7/YarmouthNS_Town_Hall.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "author": "James Somers",
+      "license": "Public domain",
+      "license_url": "",
+      "alt_en": "Yarmouth Town Hall and clock tower",
+      "alt_fr": "Hôtel de ville et tour de l’horloge de Yarmouth",
+      "location": "Yarmouth",
+      "method": "Licensed source photograph",
+      "prompt": "",
+      "relevance_kind": "local-context",
+      "relevance_region": "yarmouth-argyle",
+      "relevance_reason": "Photograph located in the region covered by this guide: Yarmouth Town Hall and clock tower"
+    },
+    {
+      "skip": true,
+      "relevance_reason": "No second photograph is needed to explain the local legal guidance."
+    }
+  ],
+  "/communities/shelburne-barrington/": [
+    {
+      "asset": "unique-ns-053.webp",
+      "title": "File:Cox's Warehouse, Shelburne, Nova Scotia, Canada.jpg",
+      "pool": "ns",
+      "width": 1536,
+      "height": 1020,
+      "source_page": "https://commons.wikimedia.org/wiki/File:Cox%27s_Warehouse,_Shelburne,_Nova_Scotia,_Canada.jpg",
+      "source_image": "https://upload.wikimedia.org/wikipedia/commons/f/f5/Cox%27s_Warehouse%2C_Shelburne%2C_Nova_Scotia%2C_Canada.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "author": "Dennis G. Jarvis",
+      "license": "CC BY-SA 2.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+      "alt_en": "Cox’s Warehouse on the Shelburne waterfront",
+      "alt_fr": "Entrepôt Cox au bord de l’eau à Shelburne",
+      "location": "Shelburne",
+      "method": "Licensed source photograph",
+      "prompt": "",
+      "relevance_kind": "local-context",
+      "relevance_region": "shelburne-barrington",
+      "relevance_reason": "Photograph located in the region covered by this guide: Cox’s Warehouse on the Shelburne waterfront"
+    },
+    {
+      "asset": "unique-ns-055.webp",
+      "title": "File:Nova Scotia DGJ 5125 - Thomas Courtney house (4411852042).jpg",
+      "pool": "ns",
+      "width": 1536,
+      "height": 1020,
+      "source_page": "https://commons.wikimedia.org/wiki/File:Nova_Scotia_DGJ_5125_-_Thomas_Courtney_house_(4411852042).jpg",
+      "source_image": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Nova_Scotia_DGJ_5125_-_Thomas_Courtney_house_%284411852042%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "author": "Dennis G. Jarvis",
+      "license": "CC BY-SA 2.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+      "alt_en": "Wooden heritage building in Shelburne",
+      "alt_fr": "Bâtiment patrimonial en bois à Shelburne",
+      "location": "Shelburne",
+      "method": "Licensed source photograph",
+      "prompt": "",
+      "relevance_kind": "local-context",
+      "relevance_region": "shelburne-barrington",
+      "relevance_reason": "Photograph located in the region covered by this guide: Wooden heritage building in Shelburne"
+    }
+  ],
+  "/fr/communities/shelburne-barrington/": [
+    {
+      "asset": "unique-ns-054.webp",
+      "title": "File:Nova Scotia DGJ 3828 - Clark's Harbour (6080568190).jpg",
+      "pool": "ns",
+      "width": 1536,
+      "height": 1020,
+      "source_page": "https://commons.wikimedia.org/wiki/File:Nova_Scotia_DGJ_3828_-_Clark%27s_Harbour_(6080568190).jpg",
+      "source_image": "https://upload.wikimedia.org/wikipedia/commons/e/e9/Nova_Scotia_DGJ_3828_-_Clark%27s_Harbour_%286080568190%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "author": "Dennis G. Jarvis",
+      "license": "CC BY-SA 2.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+      "alt_en": "Fishing boats at Clark’s Harbour, Nova Scotia",
+      "alt_fr": "Bateaux de pêche à Clark’s Harbour, Nouvelle-Écosse",
+      "location": "Clark’s Harbour",
+      "method": "Licensed source photograph",
+      "prompt": "",
+      "relevance_kind": "local-context",
+      "relevance_region": "shelburne-barrington",
+      "relevance_reason": "Photograph located in the region covered by this guide: Fishing boats at Clark’s Harbour, Nova Scotia"
+    },
+    {
+      "asset": "unique-ns-056.webp",
+      "title": "File:Nova Scotia DSC01396 - Returning to Shelburne (7705663688).jpg",
+      "pool": "ns",
+      "width": 1536,
+      "height": 1024,
+      "source_page": "https://commons.wikimedia.org/wiki/File:Nova_Scotia_DSC01396_-_Returning_to_Shelburne_(7705663688).jpg",
+      "source_image": "https://upload.wikimedia.org/wikipedia/commons/7/72/Nova_Scotia_DSC01396_-_Returning_to_Shelburne_%287705663688%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "author": "Dennis G. Jarvis",
+      "license": "CC BY-SA 2.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+      "alt_en": "Shelburne waterfront seen across the harbour",
+      "alt_fr": "Bord de mer de Shelburne vu depuis le port",
+      "location": "Shelburne",
+      "method": "Licensed source photograph",
+      "prompt": "",
+      "relevance_kind": "local-context",
+      "relevance_region": "shelburne-barrington",
+      "relevance_reason": "Photograph located in the region covered by this guide: Shelburne waterfront seen across the harbour"
+    }
+  ],
+  "/communities/lunenburg-bridgewater/": [
+    {
+      "asset": "unique-ns-063.webp",
+      "title": "File:Nova Scotia NS-00717 - Lunenburg (27380062846).jpg",
+      "pool": "ns",
+      "width": 1536,
+      "height": 1024,
+      "source_page": "https://commons.wikimedia.org/wiki/File:Nova_Scotia_NS-00717_-_Lunenburg_(27380062846).jpg",
+      "source_image": "https://upload.wikimedia.org/wikipedia/commons/5/59/Nova_Scotia_NS-00717_-_Lunenburg_%2827380062846%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "author": "Dennis G. Jarvis",
+      "license": "CC BY-SA 2.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+      "alt_en": "Lunenburg waterfront viewed across the harbour",
+      "alt_fr": "Bord de mer de Lunenburg vu depuis le port",
+      "location": "Lunenburg",
+      "method": "Licensed source photograph",
+      "prompt": "",
+      "relevance_kind": "local-context",
+      "relevance_region": "lunenburg-bridgewater",
+      "relevance_reason": "Photograph located in the region covered by this guide: Lunenburg waterfront viewed across the harbour"
+    },
+    {
+      "asset": "unique-ns-058.webp",
+      "title": "File:Nova Scotia NS-00729 - Wile Carding Mill (27491240326).jpg",
+      "pool": "ns",
+      "width": 1536,
+      "height": 1024,
+      "source_page": "https://commons.wikimedia.org/wiki/File:Nova_Scotia_NS-00729_-_Wile_Carding_Mill_(27491240326).jpg",
+      "source_image": "https://upload.wikimedia.org/wikipedia/commons/4/49/Nova_Scotia_NS-00729_-_Wile_Carding_Mill_%2827491240326%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "author": "Dennis G. Jarvis",
+      "license": "CC BY-SA 2.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+      "alt_en": "Wile Carding Mill in Bridgewater",
+      "alt_fr": "Moulin Wile Carding Mill à Bridgewater",
+      "location": "Bridgewater",
+      "method": "Licensed source photograph",
+      "prompt": "",
+      "relevance_kind": "local-context",
+      "relevance_region": "lunenburg-bridgewater",
+      "relevance_reason": "Photograph located in the region covered by this guide: Wile Carding Mill in Bridgewater"
+    }
+  ],
+  "/fr/communities/lunenburg-bridgewater/": [
+    {
+      "asset": "unique-ns-068.webp",
+      "title": "File:Mahone Bay (63424470).jpg",
+      "pool": "ns",
+      "width": 1536,
+      "height": 1022,
+      "source_page": "https://commons.wikimedia.org/wiki/File:Mahone_Bay_(63424470).jpg",
+      "source_image": "https://upload.wikimedia.org/wikipedia/commons/4/40/Mahone_Bay_%2863424470%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "author": "Martin Cathrae from Charlottetown, PE, Canada",
+      "license": "CC BY-SA 2.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+      "alt_en": "Mahone Bay waterfront under a cloudy sky",
+      "alt_fr": "Bord de mer de Mahone Bay sous un ciel nuageux",
+      "location": "Mahone Bay",
+      "method": "Licensed source photograph",
+      "prompt": "",
+      "relevance_kind": "local-context",
+      "relevance_region": "lunenburg-bridgewater",
+      "relevance_reason": "Photograph located in the region covered by this guide: Mahone Bay waterfront under a cloudy sky"
+    },
+    {
+      "asset": "unique-ns-067.webp",
+      "title": "File:Mahone Bay (32934163676).jpg",
+      "pool": "ns",
+      "width": 1536,
+      "height": 1034,
+      "source_page": "https://commons.wikimedia.org/wiki/File:Mahone_Bay_(32934163676).jpg",
+      "source_image": "https://upload.wikimedia.org/wikipedia/commons/c/c5/Mahone_Bay_%2832934163676%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "author": "Paul from Hacketts Cove, Canada",
+      "license": "CC BY 2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0",
+      "alt_en": "Snow along the Mahone Bay waterfront",
+      "alt_fr": "Neige au bord de l’eau à Mahone Bay",
+      "location": "Mahone Bay",
+      "method": "Licensed source photograph",
+      "prompt": "",
+      "relevance_kind": "local-context",
+      "relevance_region": "lunenburg-bridgewater",
+      "relevance_reason": "Photograph located in the region covered by this guide: Snow along the Mahone Bay waterfront"
+    }
+  ],
+  "/communities/queens-liverpool/": [
+    {
+      "asset": "unique-ns-111.webp",
+      "title": "File:Liverpool, Nova Scotia.JPG",
+      "pool": "ns",
+      "width": 1536,
+      "height": 669,
+      "source_page": "https://commons.wikimedia.org/wiki/File:Liverpool,_Nova_Scotia.JPG",
+      "source_image": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Liverpool%2C_Nova_Scotia.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "author": "Linglingsan at en.wikipedia",
+      "license": "Public domain",
+      "license_url": "",
+      "alt_en": "Bridge over the Mersey River in Liverpool, Nova Scotia",
+      "alt_fr": "Pont sur la rivière Mersey à Liverpool, Nouvelle-Écosse",
+      "location": "Liverpool",
+      "method": "Licensed source photograph",
+      "prompt": "",
+      "relevance_kind": "local-context",
+      "relevance_region": "queens-liverpool",
+      "relevance_reason": "Photograph located in the region covered by this guide: Bridge over the Mersey River in Liverpool, Nova Scotia"
+    },
+    {
+      "skip": true,
+      "relevance_reason": "No second photograph is needed to explain the local legal guidance."
+    }
+  ],
+  "/fr/communities/queens-liverpool/": [
+    {
+      "asset": "unique-editorial-029.webp",
+      "title": "a shelf with books on it",
+      "pool": "editorial",
+      "width": 1536,
+      "height": 1024,
+      "source_page": "https://unsplash.com/photos/a-shelf-with-books-on-it--XU8aI8_0TQ",
+      "source_image": "https://images.unsplash.com/photo-1666198259234-f7033c78b94e",
+      "author": "thisGUYshoots",
+      "license": "Unsplash License",
+      "license_url": "https://unsplash.com/license",
+      "alt_en": "A shelf with books on it",
+      "alt_fr": "Livres alignés sur une étagère",
+      "location": "",
+      "method": "Licensed source photograph",
+      "prompt": "",
+      "relevance_kind": "legal-preparation",
+      "relevance_region": "queens-liverpool",
+      "relevance_reason": "Neutral consultation, document or court-preparation subject supporting the legal-service page without depicting another town."
+    },
+    {
+      "skip": true,
+      "relevance_reason": "No second photograph is needed to explain the local legal guidance."
+    }
+  ],
+  "/communities/cumberland-amherst/": [
+    {
+      "asset": "unique-legal-050.webp",
+      "title": "Stone columns and cornice of a civic building",
+      "pool": "legal",
+      "width": 1536,
+      "height": 1024,
+      "source_page": "generated:unique-legal-050",
+      "source_image": "/Users/grafov/.codex/generated_images/01a13073-015d-7f32-8578-ade38d5a21c2/exec-197489b9-0f6d-42b9-8fce-14107939e80e.png",
+      "author": "",
+      "license": "",
+      "license_url": "",
+      "alt_en": "Stone columns and cornice of a civic building",
+      "alt_fr": "Colonnes et corniche en pierre d’un édifice public",
+      "location": "",
+      "method": "built-in image_gen",
+      "prompt": "Original photorealistic editorial photograph for Canadian legal practice website,1536x1024 landscape. A detailed architectural photograph of the corner of a courthouse building: weathered pale sandstone column capital and cornice against a clean muted blue sky, elegant restrained classical Canadian civic architecture. Beautiful professional photography, realistic proportions and textures. No people, no readable text, no logos, no watermarks, no gavel, no identifiable client records. Generic fictional scene, not an actual practice office.",
+      "relevance_kind": "legal-preparation",
+      "relevance_region": "cumberland-amherst",
+      "relevance_reason": "Neutral consultation, document or court-preparation subject supporting the legal-service page without depicting another town."
+    },
+    {
+      "skip": true,
+      "relevance_reason": "No second photograph is needed to explain the local legal guidance."
+    }
+  ],
+  "/fr/communities/cumberland-amherst/": [
+    {
+      "asset": "relevance-neutral-002.webp",
+      "source": "/Users/grafov/.codex/generated_images/01a13073-015d-7f32-8578-ade38d5a21c2/exec-4505327c-0766-4bd6-90ff-d265cd6e9736.png",
+      "prompt": "Original photorealistic editorial photograph for a Nova Scotia legal practice website,1536x1024 landscape. Organized property consultation materials on a square dark green tabletop: three plain closed cream folders staggered beside one small unlabelled house key on a dark brown ceramic dish, a simple rolled blank sheet secured with a cotton tie. View from a high diagonal angle, background entirely the tabletop with no windows or room visible. Natural soft light and crisp real texture. No exposed document text or plans. Distinct independent photographic composition with restrained professional quality. No people, no text, no logos, no watermarks, no skyline, no parliament, no tower, no recognizable place. All backgrounds opaque or absent; absolutely no view outdoors. Generic neutral legal materials/interior, not an actual practice location.",
+      "alt_en": "Organized folders and a house key for a property consultation",
+      "alt_fr": "Dossiers classés et clé de maison pour une consultation immobilière",
+      "method": "built-in image_gen",
+      "source_image": "/Users/grafov/.codex/generated_images/01a13073-015d-7f32-8578-ade38d5a21c2/exec-4505327c-0766-4bd6-90ff-d265cd6e9736.png",
+      "source_page": "generated:relevance-neutral-002",
+      "title": "Organized folders and a house key for a property consultation",
+      "author": "",
+      "license": "",
+      "license_url": "",
+      "caption_en": "Organized folders and a house key for a property consultation",
+      "caption_fr": "Dossiers classés et clé de maison pour une consultation immobilière",
+      "dimensions": [
+        1536,
+        1024
+      ],
+      "sha256": "a0f226e7dc8dfce6e903a8e9b29e4a5389aa505e9e736d4196f42d1dce70f53f",
+      "modifications": "Converted to WebP.",
+      "visual_review": "passed; opaque or absent background, no identifiable skyline",
+      "relevance_kind": "legal-preparation",
+      "relevance_region": "cumberland-amherst",
+      "relevance_reason": "Neutral consultation, document or court-preparation subject supporting the legal-service page without depicting another town.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "skip": true,
+      "relevance_reason": "No second photograph is needed to explain the local legal guidance."
+    }
+  ],
+  "/communities/pictou-new-glasgow/": [
+    {
+      "asset": "unique-ns-012.webp",
+      "title": "File:NewGlasgow EastRiverBridge.jpg",
+      "pool": "ns",
+      "width": 1536,
+      "height": 1152,
+      "source_page": "https://commons.wikimedia.org/wiki/File:NewGlasgow_EastRiverBridge.jpg",
+      "source_image": "https://upload.wikimedia.org/wikipedia/commons/a/a0/NewGlasgow_EastRiverBridge.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "author": "Verne Equinox",
+      "license": "CC BY 3.0",
+      "license_url": "https://creativecommons.org/licenses/by/3.0",
+      "alt_en": "Bridge over the East River in New Glasgow",
+      "alt_fr": "Pont sur la rivière East à New Glasgow",
+      "location": "New Glasgow",
+      "method": "Licensed source photograph",
+      "prompt": "",
+      "relevance_kind": "local-context",
+      "relevance_region": "pictou-new-glasgow",
+      "relevance_reason": "Photograph located in the region covered by this guide: Bridge over the East River in New Glasgow"
+    },
+    {
+      "asset": "unique-ns-010.webp",
+      "title": "File:TV-009-0385 (14434938318).jpg",
+      "pool": "ns",
+      "width": 1536,
+      "height": 1135,
+      "source_page": "https://commons.wikimedia.org/wiki/File:TV-009-0385_(14434938318).jpg",
+      "source_image": "https://upload.wikimedia.org/wikipedia/commons/2/2c/TV-009-0385_%2814434938318%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "author": "André Carrotflower",
+      "license": "CC BY-SA 2.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+      "alt_en": "Pictou waterfront and marine terminal",
+      "alt_fr": "Bord de mer et terminal maritime de Pictou",
+      "location": "Pictou",
+      "method": "Licensed source photograph",
+      "prompt": "",
+      "relevance_kind": "local-context",
+      "relevance_region": "pictou-new-glasgow",
+      "relevance_reason": "Photograph located in the region covered by this guide: Pictou waterfront and marine terminal"
+    }
+  ],
+  "/fr/communities/pictou-new-glasgow/": [
+    {
+      "asset": "unique-ns-013.webp",
+      "title": "File:New Glasgow, Nova Scotia, Canada.jpg",
+      "pool": "ns",
+      "width": 1536,
+      "height": 983,
+      "source_page": "https://commons.wikimedia.org/wiki/File:New_Glasgow,_Nova_Scotia,_Canada.jpg",
+      "source_image": "https://upload.wikimedia.org/wikipedia/commons/1/1f/New_Glasgow%2C_Nova_Scotia%2C_Canada.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "author": "Quintin Soloviev",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0",
+      "alt_en": "Aerial view of New Glasgow and the East River",
+      "alt_fr": "Vue aérienne de New Glasgow et de la rivière East",
+      "location": "New Glasgow",
+      "method": "Licensed source photograph",
+      "prompt": "",
+      "relevance_kind": "local-context",
+      "relevance_region": "pictou-new-glasgow",
+      "relevance_reason": "Photograph located in the region covered by this guide: Aerial view of New Glasgow and the East River"
+    },
+    {
+      "asset": "unique-ns-016.webp",
+      "title": "File:Roseland Theatre, New Glasgow, NS.jpg",
+      "pool": "ns",
+      "width": 1536,
+      "height": 864,
+      "source_page": "https://commons.wikimedia.org/wiki/File:Roseland_Theatre,_New_Glasgow,_NS.jpg",
+      "source_image": "https://upload.wikimedia.org/wikipedia/commons/8/82/Roseland_Theatre%2C_New_Glasgow%2C_NS.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "author": "Kosgood789",
+      "license": "CC0",
+      "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "alt_en": "Colourful mural at the Roseland Theatre in New Glasgow",
+      "alt_fr": "Fresque colorée au théâtre Roseland à New Glasgow",
+      "location": "New Glasgow",
+      "method": "Licensed source photograph",
+      "prompt": "",
+      "relevance_kind": "local-context",
+      "relevance_region": "pictou-new-glasgow",
+      "relevance_reason": "Photograph located in the region covered by this guide: Colourful mural at the Roseland Theatre in New Glasgow"
+    }
+  ],
+  "/communities/antigonish/": [
+    {
+      "asset": "unique-ns-114.webp",
+      "title": "File:Antigonish, Nova Scotia, Canada.jpg",
+      "pool": "ns",
+      "width": 1536,
+      "height": 922,
+      "source_page": "https://commons.wikimedia.org/wiki/File:Antigonish,_Nova_Scotia,_Canada.jpg",
+      "source_image": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Antigonish%2C_Nova_Scotia%2C_Canada.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "author": "Quintin Soloviev",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0",
+      "alt_en": "Aerial view of Antigonish town centre",
+      "alt_fr": "Vue aérienne du centre-ville d’Antigonish",
+      "location": "Antigonish",
+      "method": "Licensed source photograph",
+      "prompt": "",
+      "relevance_kind": "local-context",
+      "relevance_region": "antigonish",
+      "relevance_reason": "Photograph located in the region covered by this guide: Aerial view of Antigonish town centre"
+    },
+    {
+      "asset": "unique-ns-117.webp",
+      "title": "File:Antigonish Landing.JPG",
+      "pool": "ns",
+      "width": 1536,
+      "height": 1152,
+      "source_page": "https://commons.wikimedia.org/wiki/File:Antigonish_Landing.JPG",
+      "source_image": "https://upload.wikimedia.org/wikipedia/commons/2/22/Antigonish_Landing.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "author": "Brendanriley",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+      "alt_en": "Marshland and water at Antigonish Landing",
+      "alt_fr": "Marais et étendue d’eau à Antigonish Landing",
+      "location": "Antigonish",
+      "method": "Licensed source photograph",
+      "prompt": "",
+      "relevance_kind": "local-context",
+      "relevance_region": "antigonish",
+      "relevance_reason": "Photograph located in the region covered by this guide: Marshland and water at Antigonish Landing"
+    }
+  ],
+  "/fr/communities/antigonish/": [
+    {
+      "asset": "unique-ns-115.webp",
+      "title": "File:Antigonish.JPG",
+      "pool": "ns",
+      "width": 1536,
+      "height": 1024,
+      "source_page": "https://commons.wikimedia.org/wiki/File:Antigonish.JPG",
+      "source_image": "https://upload.wikimedia.org/wikipedia/commons/9/92/Antigonish.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "author": "Brendanriley",
+      "license": "CC BY 3.0",
+      "license_url": "https://creativecommons.org/licenses/by/3.0",
+      "alt_en": "Buildings and church towers in Antigonish",
+      "alt_fr": "Bâtiments et clochers à Antigonish",
+      "location": "Antigonish",
+      "method": "Licensed source photograph",
+      "prompt": "",
+      "relevance_kind": "local-context",
+      "relevance_region": "antigonish",
+      "relevance_reason": "Photograph located in the region covered by this guide: Buildings and church towers in Antigonish"
+    },
+    {
+      "asset": "unique-ns-119.webp",
+      "title": "File:Antigonish Sugarloaf.jpg",
+      "pool": "ns",
+      "width": 1536,
+      "height": 924,
+      "source_page": "https://commons.wikimedia.org/wiki/File:Antigonish_Sugarloaf.jpg",
+      "source_image": "https://upload.wikimedia.org/wikipedia/commons/0/02/Antigonish_Sugarloaf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "author": "Brendan Riley",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0",
+      "alt_en": "Sugarloaf hill above Antigonish beneath morning mist",
+      "alt_fr": "Colline Sugarloaf près d’Antigonish sous la brume matinale",
+      "location": "Antigonish",
+      "method": "Licensed source photograph",
+      "prompt": "",
+      "relevance_kind": "local-context",
+      "relevance_region": "antigonish",
+      "relevance_reason": "Photograph located in the region covered by this guide: Sugarloaf hill above Antigonish beneath morning mist"
+    }
+  ],
+  "/communities/guysborough-st-marys/": [
+    {
+      "asset": "unique-legal-017.webp",
+      "title": "Old Courthouse Museum Info Centre Guysborough Nova Scotia",
+      "pool": "legal",
+      "width": 1536,
+      "height": 1020,
+      "source_page": "https://commons.wikimedia.org/wiki/File:Old_Courthouse_Museum_Info_Centre_Guysborough_Nova_Scotia.jpg",
+      "source_image": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Old_Courthouse_Museum_Info_Centre_Guysborough_Nova_Scotia.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "author": "Dennis G. Jarvis",
+      "license": "CC BY-SA 2.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+      "alt_en": "Old courthouse museum in Guysborough, Nova Scotia",
+      "alt_fr": "Musée de l’ancien palais de justice de Guysborough, en Nouvelle-Écosse",
+      "location": "",
+      "method": "Licensed source photograph",
+      "prompt": "",
+      "relevance_kind": "local-context",
+      "relevance_region": "guysborough-st-marys",
+      "relevance_reason": "Photograph located in the region covered by this guide: Old courthouse museum in Guysborough, Nova Scotia"
+    },
+    {
+      "skip": true,
+      "relevance_reason": "No second photograph is needed to explain the local legal guidance."
+    }
+  ],
+  "/fr/communities/guysborough-st-marys/": [
+    {
+      "asset": "relevance-neutral-003.webp",
+      "source": "/Users/grafov/.codex/generated_images/01a13073-015d-7f32-8578-ade38d5a21c2/exec-a72b1a18-dbd7-4011-8bb0-e5606ad955b4.png",
+      "prompt": "Original photorealistic editorial photograph for a Nova Scotia legal practice website,1536x1024 landscape. A small private appointment waiting area with three separate muted terracotta upholstered chairs in an asymmetric corner arrangement against two solid cream plaster walls, a narrow cylindrical walnut side table between two chairs, quiet diffuse light from an unseen source. View straight at the corner, no reception desk, no windows, no glass partitions, no landscape artwork. Refined realistic architecture with linen fabric texture. Distinct independent photographic composition with restrained professional quality. No people, no text, no logos, no watermarks, no skyline, no parliament, no tower, no recognizable place. All backgrounds opaque or absent; absolutely no view outdoors. Generic neutral legal materials/interior, not an actual practice location.",
+      "alt_en": "Chairs in a private appointment waiting area",
+      "alt_fr": "Chaises dans un espace d’attente pour rendez-vous privés",
+      "method": "built-in image_gen",
+      "source_image": "/Users/grafov/.codex/generated_images/01a13073-015d-7f32-8578-ade38d5a21c2/exec-a72b1a18-dbd7-4011-8bb0-e5606ad955b4.png",
+      "source_page": "generated:relevance-neutral-003",
+      "title": "Chairs in a private appointment waiting area",
+      "author": "",
+      "license": "",
+      "license_url": "",
+      "caption_en": "Chairs in a private appointment waiting area",
+      "caption_fr": "Chaises dans un espace d’attente pour rendez-vous privés",
+      "dimensions": [
+        1536,
+        1024
+      ],
+      "sha256": "efc93671f35f63b6f2d2a337cc74ae6b5ef614bddd25806d9aa6acbcf96b0df7",
+      "modifications": "Converted to WebP.",
+      "visual_review": "passed; opaque or absent background, no identifiable skyline",
+      "relevance_kind": "legal-preparation",
+      "relevance_region": "guysborough-st-marys",
+      "relevance_reason": "Neutral consultation, document or court-preparation subject supporting the legal-service page without depicting another town.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "skip": true,
+      "relevance_reason": "No second photograph is needed to explain the local legal guidance."
+    }
+  ],
+  "/communities/strait-inverness-richmond/": [
+    {
+      "asset": "unique-ns-049.webp",
+      "title": "File:Canso causeway Port Hawkesbury (26493499127).jpg",
+      "pool": "ns",
+      "width": 1536,
+      "height": 1024,
+      "source_page": "https://commons.wikimedia.org/wiki/File:Canso_causeway_Port_Hawkesbury_(26493499127).jpg",
+      "source_image": "https://upload.wikimedia.org/wikipedia/commons/7/76/Canso_causeway_Port_Hawkesbury_%2826493499127%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "author": "Michel Rathwell from Cornwall, Canada",
+      "license": "CC BY 2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0",
+      "alt_en": "Canso Strait near Port Hawkesbury",
+      "alt_fr": "Détroit de Canso près de Port Hawkesbury",
+      "location": "Port Hawkesbury",
+      "method": "Licensed source photograph",
+      "prompt": "",
+      "relevance_kind": "local-context",
+      "relevance_region": "strait-inverness-richmond",
+      "relevance_reason": "Photograph located in the region covered by this guide: Canso Strait near Port Hawkesbury"
+    },
+    {
+      "skip": true,
+      "relevance_reason": "No second photograph is needed to explain the local legal guidance."
+    }
+  ],
+  "/fr/communities/strait-inverness-richmond/": [
+    {
+      "asset": "relevance-neutral-004.webp",
+      "source": "/Users/grafov/.codex/generated_images/01a13073-015d-7f32-8578-ade38d5a21c2/exec-66e15d98-db73-45c2-82f6-578b0d509648.png",
+      "prompt": "Original photorealistic editorial photograph for a Nova Scotia legal practice website,1536x1024 landscape. A small completely blank top-bound ivory notepad on a finely textured dusty blue writing mat, one short natural wood pencil aligned vertically along its left edge and round tortoiseshell reading glasses partly on the upper right corner. Tight overhead still life, no other objects, no table edge, no books, no room or windows. Gentle shadows, exquisite paper and fabric detail. Distinct independent photographic composition with restrained professional quality. No people, no text, no logos, no watermarks, no skyline, no parliament, no tower, no recognizable place. All backgrounds opaque or absent; absolutely no view outdoors. Generic neutral legal materials/interior, not an actual practice location.",
+      "alt_en": "Blank notepad, pencil and reading glasses",
+      "alt_fr": "Bloc-notes vierge, crayon et lunettes de lecture",
+      "method": "built-in image_gen",
+      "source_image": "/Users/grafov/.codex/generated_images/01a13073-015d-7f32-8578-ade38d5a21c2/exec-66e15d98-db73-45c2-82f6-578b0d509648.png",
+      "source_page": "generated:relevance-neutral-004",
+      "title": "Blank notepad, pencil and reading glasses",
+      "author": "",
+      "license": "",
+      "license_url": "",
+      "caption_en": "Blank notepad, pencil and reading glasses",
+      "caption_fr": "Bloc-notes vierge, crayon et lunettes de lecture",
+      "dimensions": [
+        1536,
+        1024
+      ],
+      "sha256": "01b4b9b581ecb6d7ba73a70d901020969421613b65a096767ef0c75c0f6f62b0",
+      "modifications": "Converted to WebP.",
+      "visual_review": "passed; opaque or absent background, no identifiable skyline",
+      "relevance_kind": "legal-preparation",
+      "relevance_region": "strait-inverness-richmond",
+      "relevance_reason": "Neutral consultation, document or court-preparation subject supporting the legal-service page without depicting another town.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "skip": true,
+      "relevance_reason": "No second photograph is needed to explain the local legal guidance."
+    }
+  ],
+  "/communities/cape-breton-victoria/": [
+    {
+      "asset": "unique-ns-098.webp",
+      "title": "File:Downtown Sydney 2017.jpg",
+      "pool": "ns",
+      "width": 1536,
+      "height": 1024,
+      "source_page": "https://commons.wikimedia.org/wiki/File:Downtown_Sydney_2017.jpg",
+      "source_image": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Downtown_Sydney_2017.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "author": "WayeMason",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "alt_en": "Sydney waterfront across calm blue harbour water",
+      "alt_fr": "Bord de mer de Sydney et eaux bleues du port",
+      "location": "Sydney",
+      "method": "Licensed source photograph",
+      "prompt": "",
+      "relevance_kind": "local-context",
+      "relevance_region": "cape-breton-victoria",
+      "relevance_reason": "Photograph located in the region covered by this guide: Sydney waterfront across calm blue harbour water"
+    },
+    {
+      "asset": "unique-ns-104.webp",
+      "title": "File:TV-009-0410 (14434885920).jpg",
+      "pool": "ns",
+      "width": 1536,
+      "height": 1152,
+      "source_page": "https://commons.wikimedia.org/wiki/File:TV-009-0410_(14434885920).jpg",
+      "source_image": "https://upload.wikimedia.org/wikipedia/commons/a/af/TV-009-0410_%2814434885920%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "author": "André Carrotflower",
+      "license": "CC BY-SA 2.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+      "alt_en": "Charlotte Street in downtown Sydney, Nova Scotia",
+      "alt_fr": "Rue Charlotte au centre-ville de Sydney, Nouvelle-Écosse",
+      "location": "Sydney",
+      "method": "Licensed source photograph",
+      "prompt": "",
+      "relevance_kind": "local-context",
+      "relevance_region": "cape-breton-victoria",
+      "relevance_reason": "Photograph located in the region covered by this guide: Charlotte Street in downtown Sydney, Nova Scotia"
+    }
+  ],
+  "/fr/communities/cape-breton-victoria/": [
+    {
+      "asset": "unique-ns-017.webp",
+      "title": "File:Baddeck Waterfront (48651321563).jpg",
+      "pool": "ns",
+      "width": 1536,
+      "height": 1152,
+      "source_page": "https://commons.wikimedia.org/wiki/File:Baddeck_Waterfront_(48651321563).jpg",
+      "source_image": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Baddeck_Waterfront_%2848651321563%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "author": "WabbitWanderer from London, Canada",
+      "license": "CC BY-SA 2.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+      "alt_en": "Small boats along the Baddeck waterfront",
+      "alt_fr": "Petits bateaux au bord de l’eau à Baddeck",
+      "location": "Baddeck",
+      "method": "Licensed source photograph",
+      "prompt": "",
+      "relevance_kind": "local-context",
+      "relevance_region": "cape-breton-victoria",
+      "relevance_reason": "Photograph located in the region covered by this guide: Small boats along the Baddeck waterfront"
+    },
+    {
+      "asset": "unique-ns-005.webp",
+      "title": "File:Fortress Louisbourg DSC02187 - Fortress Louisbourg (8175933701).jpg",
+      "pool": "ns",
+      "width": 1536,
+      "height": 1024,
+      "source_page": "https://commons.wikimedia.org/wiki/File:Fortress_Louisbourg_DSC02187_-_Fortress_Louisbourg_(8175933701).jpg",
+      "source_image": "https://upload.wikimedia.org/wikipedia/commons/6/67/Fortress_Louisbourg_DSC02187_-_Fortress_Louisbourg_%288175933701%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "author": "Dennis G. Jarvis",
+      "license": "CC BY-SA 2.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+      "alt_en": "Fortress of Louisbourg viewed across the water",
+      "alt_fr": "Forteresse de Louisbourg vue depuis le rivage",
+      "location": "Louisbourg",
+      "method": "Licensed source photograph",
+      "prompt": "",
+      "relevance_kind": "local-context",
+      "relevance_region": "cape-breton-victoria",
+      "relevance_reason": "Photograph located in the region covered by this guide: Fortress of Louisbourg viewed across the water"
+    }
+  ],
+  "/communities/": [
+    {
+      "asset": "unique-ns-093.webp",
+      "title": "File:Nova Scotia Coast (4339284636).jpg",
+      "pool": "ns",
+      "width": 1536,
+      "height": 1152,
+      "source_page": "https://commons.wikimedia.org/wiki/File:Nova_Scotia_Coast_(4339284636).jpg",
+      "source_image": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Nova_Scotia_Coast_%284339284636%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "author": "Mike from United States of America",
+      "license": "CC BY 2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0",
+      "alt_en": "Coastal mountains and bay in Cape Breton",
+      "alt_fr": "Montagnes côtières et baie au Cap-Breton",
+      "location": "Cape Breton",
+      "method": "Licensed source photograph",
+      "prompt": "",
+      "relevance_kind": "province-context",
+      "relevance_reason": "Nova Scotia landscape introducing province-wide community coverage."
+    },
+    {
+      "skip": true,
+      "relevance_reason": "Community navigation uses names and coverage lists; unrelated town photographs removed."
+    },
+    {
+      "skip": true,
+      "relevance_reason": "Community navigation uses names and coverage lists; unrelated town photographs removed."
+    },
+    {
+      "skip": true,
+      "relevance_reason": "Community navigation uses names and coverage lists; unrelated town photographs removed."
+    },
+    {
+      "skip": true,
+      "relevance_reason": "Community navigation uses names and coverage lists; unrelated town photographs removed."
+    },
+    {
+      "skip": true,
+      "relevance_reason": "Community navigation uses names and coverage lists; unrelated town photographs removed."
+    },
+    {
+      "skip": true,
+      "relevance_reason": "Community navigation uses names and coverage lists; unrelated town photographs removed."
+    },
+    {
+      "skip": true,
+      "relevance_reason": "Community navigation uses names and coverage lists; unrelated town photographs removed."
+    },
+    {
+      "skip": true,
+      "relevance_reason": "Community navigation uses names and coverage lists; unrelated town photographs removed."
+    },
+    {
+      "skip": true,
+      "relevance_reason": "Community navigation uses names and coverage lists; unrelated town photographs removed."
+    },
+    {
+      "skip": true,
+      "relevance_reason": "Community navigation uses names and coverage lists; unrelated town photographs removed."
+    },
+    {
+      "skip": true,
+      "relevance_reason": "Community navigation uses names and coverage lists; unrelated town photographs removed."
+    },
+    {
+      "skip": true,
+      "relevance_reason": "Community navigation uses names and coverage lists; unrelated town photographs removed."
+    },
+    {
+      "skip": true,
+      "relevance_reason": "Community navigation uses names and coverage lists; unrelated town photographs removed."
+    },
+    {
+      "skip": true,
+      "relevance_reason": "Community navigation uses names and coverage lists; unrelated town photographs removed."
+    },
+    {
+      "skip": true,
+      "relevance_reason": "Community navigation uses names and coverage lists; unrelated town photographs removed."
+    },
+    {
+      "skip": true,
+      "relevance_reason": "Community navigation uses names and coverage lists; unrelated town photographs removed."
+    },
+    {
+      "skip": true,
+      "relevance_reason": "Community navigation uses names and coverage lists; unrelated town photographs removed."
+    },
+    {
+      "skip": true,
+      "relevance_reason": "Community navigation uses names and coverage lists; unrelated town photographs removed."
+    },
+    {
+      "skip": true,
+      "relevance_reason": "Community navigation uses names and coverage lists; unrelated town photographs removed."
+    },
+    {
+      "skip": true,
+      "relevance_reason": "Community navigation uses names and coverage lists; unrelated town photographs removed."
+    },
+    {
+      "skip": true,
+      "relevance_reason": "Community navigation uses names and coverage lists; unrelated town photographs removed."
+    },
+    {
+      "skip": true,
+      "relevance_reason": "Community navigation uses names and coverage lists; unrelated town photographs removed."
+    },
+    {
+      "skip": true,
+      "relevance_reason": "Community navigation uses names and coverage lists; unrelated town photographs removed."
+    },
+    {
+      "skip": true,
+      "relevance_reason": "Community navigation uses names and coverage lists; unrelated town photographs removed."
+    },
+    {
+      "skip": true,
+      "relevance_reason": "Community navigation uses names and coverage lists; unrelated town photographs removed."
+    },
+    {
+      "skip": true,
+      "relevance_reason": "Community navigation uses names and coverage lists; unrelated town photographs removed."
+    }
+  ],
+  "/fr/communities/": [
+    {
+      "asset": "unique-ns-083.webp",
+      "title": "File:Cape Breton, Nova Scotia (26521085258).jpg",
+      "pool": "ns",
+      "width": 1536,
+      "height": 1152,
+      "source_page": "https://commons.wikimedia.org/wiki/File:Cape_Breton,_Nova_Scotia_(26521085258).jpg",
+      "source_image": "https://upload.wikimedia.org/wikipedia/commons/c/c0/Cape_Breton%2C_Nova_Scotia_%2826521085258%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "author": "Michel Rathwell from Cornwall, Canada",
+      "license": "CC BY 2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0",
+      "alt_en": "Broad coastal bay in Cape Breton",
+      "alt_fr": "Large baie côtière au Cap-Breton",
+      "location": "Cape Breton",
+      "method": "Licensed source photograph",
+      "prompt": "",
+      "relevance_kind": "province-context",
+      "relevance_reason": "Nova Scotia landscape introducing province-wide community coverage."
+    },
+    {
+      "skip": true,
+      "relevance_reason": "Community navigation uses names and coverage lists; unrelated town photographs removed."
+    },
+    {
+      "skip": true,
+      "relevance_reason": "Community navigation uses names and coverage lists; unrelated town photographs removed."
+    },
+    {
+      "skip": true,
+      "relevance_reason": "Community navigation uses names and coverage lists; unrelated town photographs removed."
+    },
+    {
+      "skip": true,
+      "relevance_reason": "Community navigation uses names and coverage lists; unrelated town photographs removed."
+    },
+    {
+      "skip": true,
+      "relevance_reason": "Community navigation uses names and coverage lists; unrelated town photographs removed."
+    },
+    {
+      "skip": true,
+      "relevance_reason": "Community navigation uses names and coverage lists; unrelated town photographs removed."
+    },
+    {
+      "skip": true,
+      "relevance_reason": "Community navigation uses names and coverage lists; unrelated town photographs removed."
+    },
+    {
+      "skip": true,
+      "relevance_reason": "Community navigation uses names and coverage lists; unrelated town photographs removed."
+    },
+    {
+      "skip": true,
+      "relevance_reason": "Community navigation uses names and coverage lists; unrelated town photographs removed."
+    },
+    {
+      "skip": true,
+      "relevance_reason": "Community navigation uses names and coverage lists; unrelated town photographs removed."
+    },
+    {
+      "skip": true,
+      "relevance_reason": "Community navigation uses names and coverage lists; unrelated town photographs removed."
+    },
+    {
+      "skip": true,
+      "relevance_reason": "Community navigation uses names and coverage lists; unrelated town photographs removed."
+    },
+    {
+      "skip": true,
+      "relevance_reason": "Community navigation uses names and coverage lists; unrelated town photographs removed."
+    },
+    {
+      "skip": true,
+      "relevance_reason": "Community navigation uses names and coverage lists; unrelated town photographs removed."
+    },
+    {
+      "skip": true,
+      "relevance_reason": "Community navigation uses names and coverage lists; unrelated town photographs removed."
+    },
+    {
+      "skip": true,
+      "relevance_reason": "Community navigation uses names and coverage lists; unrelated town photographs removed."
+    },
+    {
+      "skip": true,
+      "relevance_reason": "Community navigation uses names and coverage lists; unrelated town photographs removed."
+    },
+    {
+      "skip": true,
+      "relevance_reason": "Community navigation uses names and coverage lists; unrelated town photographs removed."
+    },
+    {
+      "skip": true,
+      "relevance_reason": "Community navigation uses names and coverage lists; unrelated town photographs removed."
+    },
+    {
+      "skip": true,
+      "relevance_reason": "Community navigation uses names and coverage lists; unrelated town photographs removed."
+    },
+    {
+      "skip": true,
+      "relevance_reason": "Community navigation uses names and coverage lists; unrelated town photographs removed."
+    },
+    {
+      "skip": true,
+      "relevance_reason": "Community navigation uses names and coverage lists; unrelated town photographs removed."
+    },
+    {
+      "skip": true,
+      "relevance_reason": "Community navigation uses names and coverage lists; unrelated town photographs removed."
+    },
+    {
+      "skip": true,
+      "relevance_reason": "Community navigation uses names and coverage lists; unrelated town photographs removed."
+    },
+    {
+      "skip": true,
+      "relevance_reason": "Community navigation uses names and coverage lists; unrelated town photographs removed."
+    },
+    {
+      "skip": true,
+      "relevance_reason": "Community navigation uses names and coverage lists; unrelated town photographs removed."
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+HalifaxLaw image relevance review — October 12, 2026
+
+134 retained photographic placements, each unique and explicitly justified.
+104 weak or unnecessary slots omitted: 52 community-navigation photos, 30 secondary regional photos and 22 nonregional secondary photos. Every existing image-bearing page retains a hero; all 24 practice-area card photographs are retained.
+
+Corrected mismatches included foreign courthouses on Nova Scotia regional pages, unrelated towns on community cards, a computer room on Real Estate, US university libraries on Tenancies, and postal-palace/assembly-hall imagery in service sections. Location photography now matches each guide; neutral legal-preparation images are used where no relevant verified local photograph is available.
+
+Four new independent neutral images supplied for correspondence, property documents, appointment seating and notetaking. Source prompts, original paths, licences, descriptions and placement relevance are recorded in the image register. Unused photographs were moved outside the published asset directory.
+
+Checks: 87 HTML files with no local link/asset errors; 134 distinct image files and hashes; no exact or perceptual/mirrored duplicate flags against 6,298 distinct accessible prior images; English/French mobile layout and image loading; community search.
+
+Scope: local accessible inventories only. Cloud-only/unavailable inventories, animations, images under 300px and files over 20MB are not verified. Perceptual screening supports visual review and cannot establish universal portfolio-wide uniqueness.
+
+Publication: checked and ready.
