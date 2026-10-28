@@ -55,7 +55,7 @@ def image(name,fr=False,cls='',eager=False):
 def a(route,label,fr=False,cls=''):return f'<a class="{cls}" href="{path(route,fr)}">{label}</a>'
 def button(route,label,fr=False):return a(route,label,fr,'button')
 def cards(fr=False,limit=None):
- return '<div class="topic-grid">'+''.join(f'<a class="topic-card" href="{path("topics/"+t[0],fr)}">{image(t[3],fr) if t[0] != "criminal-law" else ""}<div><span class="eyebrow">0{i+1}</span><h3>{t[2 if fr else 1]}</h3><p>{t[5 if fr else 4]}</p><span class="text-link">{"VOIR LES SERVICES" if fr else "VIEW LEGAL SERVICES"}</span></div></a>' for i,t in enumerate(topics[:limit]))+'</div>'
+ return '<div class="topic-grid">'+''.join(f'<a id="service-{t[0]}" class="topic-card{' feature-card' if t[0] == 'criminal-law' else ''}" href="{path("topics/"+t[0],fr)}">{image(t[3],fr)}<div><span class="eyebrow">0{i+1}</span><h3>{t[2 if fr else 1]}</h3><p>{t[5 if fr else 4]}</p><span class="text-link">{"VOIR LES SERVICES" if fr else "VIEW LEGAL SERVICES"}</span></div></a>' for i,t in enumerate(topics[:limit]))+'</div>'
 nav=[('topics','Practice areas','Domaines'),('communities','Communities','Collectivités'),('about','About','À propos'),('contact','Contact','Contact')]
 urls=[]
 def page(route,title,desc,body,fr=False):

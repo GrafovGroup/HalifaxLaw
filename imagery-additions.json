@@ -1,0 +1,202 @@
+[
+  {
+    "key": "property-en",
+    "prompt": "Use case: photorealistic-natural. Website editorial photograph for a Nova Scotia real estate legal service. Wide landscape 3:2. Close, candid over-table view of a property closing: two anonymous adults visible only as forearms, one carefully reviewing a paper agreement, a brass house key on a dark navy folder and a restrained residential floor plan nearby. Warm walnut table, soft coastal daylight, ivory paper, subtle copper accents. Real materials, natural imperfections, premium but approachable. Clear central subject, safe for landscape crops. No legible text, no brands, no signatures or personal information, no scales or gavel, no implied actual firm premises or personnel. Make a single photograph, not a collage.",
+    "source_image": "/workspace/scratch/87d98870ae73/generated_images/exec-4c0341fd-2162-49e9-a473-e1159fdb57b8.png",
+    "en": "Hands reviewing property documents beside house keys and a floor plan",
+    "fr": "Mains examinant des documents immobiliers à côté de clés et d’un plan",
+    "asset": "practice-property-en.webp",
+    "small_asset": "practice-property-en-600.webp",
+    "route": "/topics/property/"
+  },
+  {
+    "key": "property-fr",
+    "prompt": "Use case: photorealistic-natural. Single wide 3:2 editorial photograph for a Nova Scotia law-practice website. A top-down composition of an unrolled residential floor plan, a small brass key, a plain ivory deed folder and reading glasses on a pale oak desk. An anonymous hand squares the papers. Focus on preparing the documentation for a home purchase. Premium natural photography, authentic textures, soft coastal daylight, restrained navy, ivory and warm wood palette. Distinct clear subject readable in landscape crop. No legible text, logos, watermarks, sensitive records, gavels, US symbols or identifiable firm premises. Illustrative anonymous scene, not actual staff or clients. Not a collage.",
+    "en": "Floor plan, keys and documents prepared for a property transaction",
+    "fr": "Plan de maison, clés et documents préparés pour une transaction immobilière",
+    "source_image": "/workspace/scratch/87d98870ae73/generated_images/exec-4c33658b-31e0-4bd1-b8e4-b7c8539b8c24.png",
+    "asset": "practice-property-fr.webp",
+    "small_asset": "practice-property-fr-600.webp",
+    "route": "/fr/topics/property/"
+  },
+  {
+    "key": "family-en",
+    "prompt": "Use case: photorealistic-natural. Single wide 3:2 editorial photograph for a Nova Scotia law-practice website. A discreet family-law consultation seen from shoulder level with all faces outside the frame: two adults seated on one side of a round oak table, an adviser on the other pointing to a simple blank weekly planning grid. Three natural sets of hands, closed notebooks and water glasses. Respectful, calm, cooperative atmosphere; no children, rings, conflict, tears or courthouse. Premium natural photography, authentic textures, soft coastal daylight, restrained navy, ivory and warm wood palette. Distinct clear subject readable in landscape crop. No legible text, logos, watermarks, sensitive records, gavels, US symbols or identifiable firm premises. Illustrative anonymous scene, not actual staff or clients. Not a collage.",
+    "en": "Adults discussing a weekly plan during a consultation",
+    "fr": "Adultes discutant d’un calendrier lors d’une consultation",
+    "source_image": "/workspace/scratch/87d98870ae73/generated_images/exec-fd685043-5d02-4415-8cde-57289faca90d.png",
+    "asset": "practice-family-en.webp",
+    "small_asset": "practice-family-en-600.webp",
+    "route": "/topics/family/"
+  },
+  {
+    "key": "family-fr",
+    "prompt": "Use case: photorealistic-natural. Single wide 3:2 editorial photograph for a Nova Scotia law-practice website. Side-angle detail of a quiet family mediation setting: three upholstered chairs around a round table, one open plain notebook, a pen and two ceramic cups. A softly blurred pair of anonymous seated adults in the background with no visible faces. Focus on the open notebook and balanced seating, welcoming and discreet, no distressed people. Premium natural photography, authentic textures, soft coastal daylight, restrained navy, ivory and warm wood palette. Distinct clear subject readable in landscape crop. No legible text, logos, watermarks, sensitive records, gavels, US symbols or identifiable firm premises. Illustrative anonymous scene, not actual staff or clients. Not a collage.",
+    "en": "Notebook and seating arranged for a private family discussion",
+    "fr": "Carnet et sièges préparés pour un entretien familial privé",
+    "source_image": "/workspace/scratch/87d98870ae73/generated_images/exec-464747ed-66d3-4c6b-b1bc-de8b3736dcc1.png",
+    "asset": "practice-family-fr.webp",
+    "small_asset": "practice-family-fr-600.webp",
+    "route": "/fr/topics/family/"
+  },
+  {
+    "key": "wills-estates-en",
+    "prompt": "Use case: photorealistic-natural. Single wide 3:2 editorial photograph for a Nova Scotia law-practice website. An older adult's hands organising a cream document folder and a private planning notebook with a younger adult's hand listening nearby, photographed close from table height. A modest blurred family picture frame turned away in the background, a fountain pen, warm afternoon window light. Estate planning, orderly and reassuring, no readable handwriting. Premium natural photography, authentic textures, soft coastal daylight, restrained navy, ivory and warm wood palette. Distinct clear subject readable in landscape crop. No legible text, logos, watermarks, sensitive records, gavels, US symbols or identifiable firm premises. Illustrative anonymous scene, not actual staff or clients. Not a collage.",
+    "en": "Hands organising documents for an estate-planning discussion",
+    "fr": "Mains organisant des documents pour un entretien de planification successorale",
+    "source_image": "/workspace/scratch/87d98870ae73/generated_images/exec-9a1f7b05-f78c-470e-9f2f-087ccc1be72a.png",
+    "asset": "practice-wills-estates-en.webp",
+    "small_asset": "practice-wills-estates-en-600.webp",
+    "route": "/topics/wills-estates/"
+  },
+  {
+    "key": "wills-estates-fr",
+    "prompt": "Use case: photorealistic-natural. Single wide 3:2 editorial photograph for a Nova Scotia law-practice website. An overhead still life on a sage linen desk mat: three separate closed archival document folders in ivory, navy and warm grey, a fountain pen, reading glasses and a small discreet tabbed notebook. A hand reaches toward the first folder. Thoughtful preparation of a will and future-care documents, no house models, no keys, no clocks. Premium natural photography, authentic textures, soft coastal daylight, restrained navy, ivory and warm wood palette. Distinct clear subject readable in landscape crop. No legible text, logos, watermarks, sensitive records, gavels, US symbols or identifiable firm premises. Illustrative anonymous scene, not actual staff or clients. Not a collage.",
+    "en": "Document folders and a notebook ready for future planning",
+    "fr": "Dossiers et carnet préparés pour planifier l’avenir",
+    "source_image": "/workspace/scratch/87d98870ae73/generated_images/exec-ad96669d-8f58-4a86-8cad-90c32e24d3d3.png",
+    "asset": "practice-wills-estates-fr.webp",
+    "small_asset": "practice-wills-estates-fr-600.webp",
+    "route": "/fr/topics/wills-estates/"
+  },
+  {
+    "key": "business-en",
+    "prompt": "Use case: photorealistic-natural. One wide landscape 3:2 editorial image for a Nova Scotia legal-service website. Close oblique overhead view of two anonymous business owners reviewing an agreement at a white marble meeting table: one hand points with a pencil, a second holds the edge of paper, a closed charcoal laptop and slim copper ruler sit nearby. Large warehouse windows softly blurred behind. No faces. Commercial contract review. Restrained navy, ivory, warm timber and muted copper palette. Natural photography, authentic textures, subtle light, calm professional tone. No logos, watermarks, readable personal records, flags, scales or gavels. Illustrative scene, not actual firm personnel or premises. Distinct single photo, not a collage.",
+    "en": "Hands reviewing a business agreement at a meeting table",
+    "fr": "Mains examinant un contrat commercial autour d’une table",
+    "source_image": "/workspace/scratch/87d98870ae73/generated_images/exec-2a5897bc-8df5-4a57-9c31-261a273e26ab.png",
+    "asset": "practice-business-en.webp",
+    "small_asset": "practice-business-en-600.webp",
+    "route": "/topics/business/"
+  },
+  {
+    "key": "business-fr",
+    "prompt": "Use case: photorealistic-natural. One wide landscape 3:2 editorial image for a Nova Scotia legal-service website. A small business workbench transitioning to a tidy office desk: a rolled architectural drawing, closed navy laptop, tidy contract folder and a pen, with a small potted plant. Industrial brick wall softly blurred. No people or readable print. Subject is preparing business agreements before signing, NOT a waterfront consultation room. Restrained navy, ivory, warm timber and muted copper palette. Natural photography, authentic textures, subtle light, calm professional tone. No logos, watermarks, readable personal records, flags, scales or gavels. Illustrative scene, not actual firm personnel or premises. Distinct single photo, not a collage.",
+    "en": "Contract folder and business planning materials on a desk",
+    "fr": "Dossier contractuel et documents de planification sur un bureau",
+    "source_image": "/workspace/scratch/87d98870ae73/generated_images/exec-0bf4d89a-db21-41be-944e-6149c2803236.png",
+    "asset": "practice-business-fr.webp",
+    "small_asset": "practice-business-fr-600.webp",
+    "route": "/fr/topics/business/"
+  },
+  {
+    "key": "housing-en",
+    "prompt": "Use case: photorealistic-natural. One wide landscape 3:2 editorial image for a Nova Scotia legal-service website. Residential tenancy preparation in a modest bright apartment kitchen: a tenant's anonymous hands compare a simple checklist with a rental agreement on a light kitchen island. Two small apartment keys and a plain inventory folder nearby, soft blurred kitchen cabinets in background. No visible faces or legible text. Restrained navy, ivory, warm timber and muted copper palette. Natural photography, authentic textures, subtle light, calm professional tone. No logos, watermarks, readable personal records, flags, scales or gavels. Illustrative scene, not actual firm personnel or premises. Distinct single photo, not a collage.",
+    "en": "Rental documents and keys being reviewed in an apartment",
+    "fr": "Documents de location et clés examinés dans un appartement",
+    "source_image": "/workspace/scratch/87d98870ae73/generated_images/exec-1a90c07f-38eb-462a-bd66-e9bda4080a28.png",
+    "asset": "practice-housing-en.webp",
+    "small_asset": "practice-housing-en-600.webp",
+    "route": "/topics/housing/"
+  },
+  {
+    "key": "housing-fr",
+    "prompt": "Use case: photorealistic-natural. One wide landscape 3:2 editorial image for a Nova Scotia legal-service website. Quiet doorway in a modest contemporary rental apartment, close-up of a hand holding a small set of keys beside a clipboard with a simple blank room-condition grid. Warm plaster wall, door latch and a glimpse of empty living room. Focus on the checklist and keys, no face, no readable text. Restrained navy, ivory, warm timber and muted copper palette. Natural photography, authentic textures, subtle light, calm professional tone. No logos, watermarks, readable personal records, flags, scales or gavels. Illustrative scene, not actual firm personnel or premises. Distinct single photo, not a collage.",
+    "en": "Apartment keys and a clipboard for documenting rental condition",
+    "fr": "Clés d’appartement et planchette pour noter l’état du logement",
+    "source_image": "/workspace/scratch/87d98870ae73/generated_images/exec-926001c1-d9d6-47a1-8b86-3692c8ab3849.png",
+    "asset": "practice-housing-fr.webp",
+    "small_asset": "practice-housing-fr-600.webp",
+    "route": "/fr/topics/housing/"
+  },
+  {
+    "key": "disputes-en",
+    "prompt": "Use case: photorealistic-natural. One wide landscape 3:2 editorial image for a Nova Scotia legal-service website. A neutral legal research desk seen from a low side angle in a light-filled library: an anonymous adult's hands sorting three tabbed case folders and a chronological row of correspondence, open thick reference books at one side. Soft-focus book shelves; no recognizable building, no readable titles, no gavel. Practical civil dispute preparation. Restrained navy, ivory, warm timber and muted copper palette. Natural photography, authentic textures, subtle light, calm professional tone. No logos, watermarks, readable personal records, flags, scales or gavels. Illustrative scene, not actual firm personnel or premises. Distinct single photo, not a collage.",
+    "en": "Case folders and correspondence organised for dispute preparation",
+    "fr": "Dossiers et correspondance organisés pour préparer un litige",
+    "source_image": "/workspace/scratch/87d98870ae73/generated_images/exec-8768b5f6-5284-423f-9570-3ffcfa382bc6.png",
+    "asset": "practice-disputes-en.webp",
+    "small_asset": "practice-disputes-en-600.webp",
+    "route": "/topics/disputes/"
+  },
+  {
+    "key": "disputes-fr",
+    "prompt": "Use case: photorealistic-natural. One wide landscape 3:2 editorial image for a Nova Scotia legal-service website. A composed mediation table viewed from the end: two plain navy document folios facing each other, a single closed cream reference book between, two water glasses and two empty comfortable chairs. Frosted glass office divider, soft daylight. No people, no coast view. Visual idea is organised negotiation and resolving a civil disagreement. Restrained navy, ivory, warm timber and muted copper palette. Natural photography, authentic textures, subtle light, calm professional tone. No logos, watermarks, readable personal records, flags, scales or gavels. Illustrative scene, not actual firm personnel or premises. Distinct single photo, not a collage.",
+    "en": "Two document folios arranged for a mediation meeting",
+    "fr": "Deux porte-documents préparés pour une séance de médiation",
+    "source_image": "/workspace/scratch/87d98870ae73/generated_images/exec-69e8c9ac-a9cb-4139-a453-8444c9677fe2.png",
+    "asset": "practice-disputes-fr.webp",
+    "small_asset": "practice-disputes-fr-600.webp",
+    "route": "/fr/topics/disputes/"
+  },
+  {
+    "key": "criminal-home-en",
+    "prompt": "Use case: photorealistic-natural. Single 3:2 landscape editorial photograph for a criminal-law service card on a Nova Scotia practice website. Close photograph of a closed navy case brief and a simple pen on a wooden counsel table in a fictional empty Canadian-style courtroom. Softly blurred rows of empty chairs and a wood-panelled wall in background, calm level composition, not dramatic. No readable signage, no gavel, no flags, no restraints, no people. Natural textures, refined navy/ivory/warm wood palette. The scene should communicate careful legal preparation and a fair process. No logos, watermarks, US iconography, badges, weapons, handcuffs, scales, or identifiable firm staff. Not a collage.",
+    "en": "Case folder on a counsel table in an empty courtroom",
+    "fr": "Dossier sur une table d’avocat dans une salle d’audience vide",
+    "source_image": "/workspace/scratch/87d98870ae73/generated_images/exec-b5a85b51-c86a-4ffe-8444-bcdac08ddc99.png",
+    "asset": "practice-criminal-home-en.webp",
+    "small_asset": "practice-criminal-home-en-600.webp",
+    "route": "/"
+  },
+  {
+    "key": "criminal-home-fr",
+    "prompt": "Use case: photorealistic-natural. Single 3:2 landscape editorial photograph for a criminal-law service card on a Nova Scotia practice website. Daylit private legal consultation desk: a dark briefcase beside an open cream notebook, document folder and plain black pen. Low angle from the visitor seat, soft focus frosted glass door beyond. Serious but approachable, no person, no coastal view, no text. Natural textures, refined navy/ivory/warm wood palette. The scene should communicate careful legal preparation and a fair process. No logos, watermarks, US iconography, badges, weapons, handcuffs, scales, or identifiable firm staff. Not a collage.",
+    "en": "Briefcase and notes prepared for a legal consultation",
+    "fr": "Mallette et notes préparées pour une consultation juridique",
+    "source_image": "/workspace/scratch/87d98870ae73/generated_images/exec-41a7d038-9dbd-4a78-85f7-7feeb9877306.png",
+    "asset": "practice-criminal-home-fr.webp",
+    "small_asset": "practice-criminal-home-fr-600.webp",
+    "route": "/fr/"
+  },
+  {
+    "key": "criminal-index-en",
+    "prompt": "Use case: photorealistic-natural. Single 3:2 landscape editorial photograph for a criminal-law service card on a Nova Scotia practice website. A detailed close-up of a tabbed criminal-case preparation binder beside two thick unlabelled reference books on a pale oak legal library desk, an anonymous hand turning a page. Background shelves soft focus. Balanced documentary photography, no face, no legible text. Natural textures, refined navy/ivory/warm wood palette. The scene should communicate careful legal preparation and a fair process. No logos, watermarks, US iconography, badges, weapons, handcuffs, scales, or identifiable firm staff. Not a collage.",
+    "en": "Tabbed case binder and reference books for legal preparation",
+    "fr": "Classeur à onglets et ouvrages de référence pour la préparation juridique",
+    "source_image": "/workspace/scratch/87d98870ae73/generated_images/exec-365cf1c4-d1ec-4b36-a375-2e789d61d85a.png",
+    "asset": "practice-criminal-index-en.webp",
+    "small_asset": "practice-criminal-index-en-600.webp",
+    "route": "/topics/"
+  },
+  {
+    "key": "criminal-index-fr",
+    "prompt": "Use case: photorealistic-natural. Single 3:2 landscape editorial photograph for a criminal-law service card on a Nova Scotia practice website. A fictional quiet courthouse consultation alcove with two empty walnut chairs, a small dark green desk holding a closed cream file and pen. Tall frosted window casts a soft geometric patch of daylight on limestone flooring. No grand architecture or identifiable real courthouse, no signage. Natural textures, refined navy/ivory/warm wood palette. The scene should communicate careful legal preparation and a fair process. No logos, watermarks, US iconography, badges, weapons, handcuffs, scales, or identifiable firm staff. Not a collage.",
+    "en": "Quiet consultation alcove with a file ready for discussion",
+    "fr": "Espace de consultation calme avec un dossier prêt pour un entretien",
+    "source_image": "/workspace/scratch/87d98870ae73/generated_images/exec-5bda3527-e61c-42f4-9bb2-855ed0fc636c.png",
+    "asset": "practice-criminal-index-fr.webp",
+    "small_asset": "practice-criminal-index-fr-600.webp",
+    "route": "/fr/topics/"
+  },
+  {
+    "key": "contact-en",
+    "prompt": "Use case: photorealistic-natural. Single wide landscape 3:2 editorial photograph for a Nova Scotia law practice website. A welcoming first-consultation setting photographed close from the visitor side: a blank cream notepad, navy pen and a clear glass of water on a small walnut desk; one comfortable empty chair beyond, soft morning light through linen curtains. No bookshelves, no coast view. Practical, calm and uncluttered. Natural restrained photography, navy, ivory, warm wood, realistic materials and soft light. No logos, watermarks, identifiable people, confidential records, invented office signage, gavels or US symbols. Fictional illustrative scene, not the actual practice premises. Not a collage.",
+    "en": "Notepad and water prepared for a first consultation",
+    "fr": "Carnet et verre d’eau préparés pour une première consultation",
+    "source_image": "/workspace/scratch/87d98870ae73/generated_images/exec-435439ce-be45-41b7-af82-31aae2ac3635.png",
+    "asset": "practice-contact-en.webp",
+    "small_asset": "practice-contact-en-600.webp",
+    "route": "/contact/"
+  },
+  {
+    "key": "contact-fr",
+    "prompt": "Use case: photorealistic-natural. Single wide landscape 3:2 editorial photograph for a Nova Scotia law practice website. Two empty upholstered visitor chairs beside an oval oak consultation table, a closed navy notebook and two ceramic cups. Soft interior light and a leafy plant against an off-white plaster wall. Medium-wide composition, discreet and inviting, no waterfront or signage. Natural restrained photography, navy, ivory, warm wood, realistic materials and soft light. No logos, watermarks, identifiable people, confidential records, invented office signage, gavels or US symbols. Fictional illustrative scene, not the actual practice premises. Not a collage.",
+    "en": "Visitor chairs and a notebook in a quiet consultation space",
+    "fr": "Fauteuils et carnet dans un espace de consultation calme",
+    "source_image": "/workspace/scratch/87d98870ae73/generated_images/exec-158a1356-f96f-41eb-9692-ca0c8bba7a97.png",
+    "asset": "practice-contact-fr.webp",
+    "small_asset": "practice-contact-fr-600.webp",
+    "route": "/fr/contact/"
+  },
+  {
+    "key": "resources-en",
+    "prompt": "Use case: photorealistic-natural. Single wide landscape 3:2 editorial photograph for a Nova Scotia law practice website. Top-down research workspace: an open plain legal reference book, several blank sticky tabs along its page edges, a pair of reading glasses and a mechanical pencil on a dark blue desk mat. Strong visual hierarchy, daylight from upper left. No people, no readable words or labels. Natural restrained photography, navy, ivory, warm wood, realistic materials and soft light. No logos, watermarks, identifiable people, confidential records, invented office signage, gavels or US symbols. Fictional illustrative scene, not the actual practice premises. Not a collage.",
+    "en": "Open reference book and page tabs for legal research",
+    "fr": "Ouvrage de référence ouvert et onglets pour la recherche juridique",
+    "source_image": "/workspace/scratch/87d98870ae73/generated_images/exec-a8d8770c-41dc-457b-b80c-2b0832a8d7f0.png",
+    "asset": "practice-resources-en.webp",
+    "small_asset": "practice-resources-en-600.webp",
+    "route": "/resources/"
+  },
+  {
+    "key": "resources-fr",
+    "prompt": "Use case: photorealistic-natural. Single wide landscape 3:2 editorial photograph for a Nova Scotia law practice website. Side-angle of a person visible only as hands making notes beside an open reference book and closed silver laptop at a pale desk. Window view of indistinct green foliage, not water. Focus on pencil and notebook, careful public-resource research. No legible text or screens. Natural restrained photography, navy, ivory, warm wood, realistic materials and soft light. No logos, watermarks, identifiable people, confidential records, invented office signage, gavels or US symbols. Fictional illustrative scene, not the actual practice premises. Not a collage.",
+    "en": "Hands taking notes beside a legal reference book",
+    "fr": "Mains prenant des notes à côté d’un ouvrage juridique",
+    "source_image": "/workspace/scratch/87d98870ae73/generated_images/exec-a1e7ef77-f587-407e-a844-90e22eef05de.png",
+    "asset": "practice-resources-fr.webp",
+    "small_asset": "practice-resources-fr-600.webp",
+    "route": "/fr/resources/"
+  }
+]

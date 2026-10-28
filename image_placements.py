@@ -23,6 +23,9 @@ def apply_images(body,route,fr):
         tag=match.group(0)
         for name,value in [('src','/assets/'+item['asset']),('alt',item['alt_fr' if fr else 'alt_en']),('width',item['width']),('height',item['height'])]:
             tag=re.sub(r'\b'+name+r'="[^"]*"',name+'="'+html.escape(str(value),quote=True)+'"',tag)
+        if item.get('small_asset'):
+            sizes='(max-width: 800px) 88vw, 660px' if 'article-image' in tag else '(max-width: 800px) 88vw, 600px'
+            tag=tag.replace('>', ' srcset="/assets/'+item['small_asset']+' 600w, /assets/'+item['asset']+' '+str(item['width'])+'w" sizes="'+sizes+'" decoding="async">')
         return tag
     result=re.sub(r'<img\b[^>]*>',replace,body)
     if next(entries,None) is not None: raise ValueError('Unused image placement: '+key)

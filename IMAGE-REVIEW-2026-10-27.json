@@ -1,0 +1,9 @@
+{
+  "new_photos": 20,
+  "unique_new_sha256": 20,
+  "prior_unique_images_screened": 569,
+  "method": "64-bit difference hash plus mirrored comparison, flag distance <= 5; SHA256 for exact matches",
+  "flags": [],
+  "limitations": "Only accessible /workspace raster inventories; excludes node_modules, git, generated originals, duplicate GitHub checkout, images under 300px and files over 20MB. Cloud-only and older inaccessible inventories not checked. Similarity screening is not proof of universal uniqueness.",
+  "visual_review": "All 20 generated outputs reviewed for service relevance and layout-safe subject matter."
+}

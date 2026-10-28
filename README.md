@@ -50,3 +50,9 @@ Never commit credentials, environment secrets, access tokens or local preview st
 - Social images, locale metadata, image-preview directives and multilingual sitemap annotations.
 
 These changes improve usability and discoverability; they do not establish search rankings, AI citations or FAQ rich-result eligibility. No search-engine ownership verification, sitemap submission or inbox delivery test is claimed.
+
+## Practice imagery additions
+
+Twenty original editorial photographs add relevant imagery to six bilingual service articles, four criminal-law cards, and bilingual contact/resources pages. The existing criminal-law article images and professional photographs are retained. New assets are `dist/assets/practice-*.webp`; each has a 600px responsive derivative, descriptive English/French alt text and lazy loading. The entire new image set including derivatives is approximately 1.92 MB.
+
+`imagery-additions.json` records the complete built-in image-generation prompts and asset destinations. `image-placements.json` controls placements and provenance. `IMAGE-REVIEW-2026-10-27.json` records local uniqueness screening and its limits. Generated scenes illustrate service context; they do not depict actual clients, staff or premises.
