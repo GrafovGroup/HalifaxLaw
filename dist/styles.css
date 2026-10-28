@@ -37,3 +37,20 @@ header{height:88px;position:sticky;top:0;z-index:50}#navigation{gap:23px}#naviga
 @media(max-width:1000px){.lawyer-intro{gap:35px;grid-template-columns:1fr 1fr}.lawyer-intro h2{font-size:36px}.profile-facts{grid-template-columns:1fr;gap:14px}}
 @media(max-width:800px){.lawyer-intro,.profile-overview{grid-template-columns:1fr;gap:30px}.lawyer-intro h2{font-size:40px}.profile-facts{grid-template-columns:1fr 1fr}.consultation-hero{padding:42px 6%}.consultation-jumps{padding:20px 6%;gap:14px 24px}.consultation-layout .checklist{grid-row:1}.consultation-details>div{grid-template-columns:1fr;gap:8px}.profile-overview h2{font-size:37px}.consultation-layout article h2{font-size:35px}}
 @media(max-width:400px){.lawyer-intro h2{font-size:34px}.profile-facts{grid-template-columns:1fr}.consultation-hero .actions .button{width:100%}}
+
+/* Fluid page containers: use the viewport with consistent, modest gutters. */
+:root{--page-gutter:clamp(16px,2vw,48px)}
+header,footer,.section,.article-layout,.chapter-strip,.quick-start,.service-actions,nav.breadcrumbs,.consultation-hero,.consultation-jumps{padding-left:var(--page-gutter);padding-right:var(--page-gutter)}
+.section,.article-layout{width:100%;max-width:none}
+.home-hero,.page-hero,.local-feature{padding-left:0;padding-right:0}
+.hero-copy,.page-hero>div{padding-left:var(--page-gutter);padding-right:var(--page-gutter)}
+.hero-image{padding-right:var(--page-gutter)}
+.local-feature>div:first-child{padding-left:var(--page-gutter)}
+.local-feature>div:last-child{padding-left:var(--page-gutter);padding-right:var(--page-gutter)}
+.article-layout{gap:clamp(28px,4vw,80px)}
+.article-layout>*,.lawyer-intro>*,.profile-overview>*{min-width:0}
+.article-layout article p,.article-layout article li,.narrow>p,.narrow details p,.lawyer-intro p,.profile-overview p{max-width:75ch}
+@media(max-width:800px){
+ #navigation{padding-left:var(--page-gutter);padding-right:var(--page-gutter)}
+ .hero-image,.local-feature>div:first-child{padding-left:var(--page-gutter);padding-right:var(--page-gutter)}
+}
