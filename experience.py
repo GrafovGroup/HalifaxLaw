@@ -1,4 +1,5 @@
 """Shared bilingual UX and search metadata; build-time HTML, no client dependency."""
+from consultation import profile, preview, about_details
 import html
 import json
 import re
@@ -42,7 +43,11 @@ def enhance(body, route, title, fr):
   body=body[:start]+'<div class="actions">'+anchor(enquiry,t('Request an appointment','Demander un rendez-vous'),'button')+anchor('tel:+12898885878',t('Call (289) 888-5878','Appeler le (289) 888-5878'),'light-link')+body[end:]
   quick='<section class="quick-start" aria-labelledby="find-help"><div><span class="eyebrow">'+t('START WITH YOUR SITUATION','VOTRE POINT DE DÉPART')+'</span><h2 id="find-help">'+t('What can we help you with?','Comment pouvons-nous vous aider?')+'</h2></div><div class="topic-shortcuts">'+''.join(anchor(link('topics/'+key),names[fr]+' ↗') for key,names in TOPICS.items())+'</div></section>'
   body=re.sub(r'<div class="chapter-strip">.*?</div>',quick,body,count=1)
+  body=body.replace('<section class="local-feature">',profile(fr)+'<section class="local-feature">',1)
+  body=re.sub(r'<section class="section steps">.*?</section>',preview(fr),body,count=1,flags=re.S)
   body=body.replace('<section class="callout">',faq+'<section class="callout">',1)
+ if route=='about':
+  body=body.replace('<section class="callout">',about_details(fr)+'<section class="callout">',1)
  if route=='faq':
   body=body.replace('<section class="callout">',faq+'<section class="callout">',1)
  if is_service:
@@ -51,12 +56,14 @@ def enhance(body, route, title, fr):
   if intro:
    bar='<div class="service-actions">'+anchor(enquiry,t('Ask about this service','Poser une question'),'button')+anchor('#prepare',t('What to prepare ↓','Que préparer ↓'),'text-link')+anchor('#quick-answers',t('Common questions ↓','Questions fréquentes ↓'),'text-link')+'</div>'
    body=body[:intro.end()]+bar+body[intro.end():]
+  body=body.replace('</aside>', '<p class="guide-profile-link">'+anchor(link('first-consultation'),t('What to expect at your first consultation →','À quoi s’attendre à la première consultation →'),'text-link')+'</p></aside>',1)
   body=body.replace('<aside class="checklist">','<aside class="checklist" id="prepare">',1)
   body=body.replace('<section class="callout">',faq+'<section class="callout">',1)
  if route=='contact':
   body=body.replace('class="page-hero"','class="page-hero contact-hero"',1)
   body=body.replace('<h2>'+t('Get in touch','Communiquez directement')+'</h2>', '<h2>'+t('Choose how to get in touch','Choisissez votre moyen de contact')+'</h2><div class="contact-options">'+anchor('#enquiry',t('Send an enquiry ↓','Envoyer une demande ↓'),'button')+anchor('tel:+12898885878',t('Call (289) 888-5878','Appeler le (289) 888-5878'),'button button-outline')+'</div>')
   body=body.replace('class="enquiry-section"','class="enquiry-section" id="enquiry"',1)
+  body=body.replace('<section class="enquiry-section"', '<p class="consultation-note">'+anchor(link('first-consultation'),t('New to the practice? Read the first-consultation guide →','Première démarche? Consultez le guide de première consultation →'))+'</p><section class="enquiry-section"',1)
   body=body.replace('</aside>', '<div class="next-expect"><h3>'+t('What happens next?','Que se passe-t-il ensuite?')+'</h3><ol><li>'+t('The practice reviews your enquiry.','Le cabinet examine votre demande.')+'</li><li>'+t('Availability, scope and conflict checks are confirmed.','La disponibilité, la portée et les conflits sont vérifiés.')+'</li><li>'+t('You agree on fees and the next step before proceeding.','Vous convenez des honoraires et de la prochaine étape avant de poursuivre.')+'</li></ol></div></aside>',1)
  # Complete breadcrumb trail on all non-home pages.
  crumbs=[(link(''),t('Home','Accueil'))]
